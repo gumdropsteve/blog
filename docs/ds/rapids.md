@@ -1,5 +1,3 @@
-# Data Science
-
 ### ETL 215.5M rows of Taxi Data with BlazingSQL
 Preprocess > 30GB of NYC Yellow Cab data for Datashader visualization with a single Tesla T4 GPU ([Friend link](https://medium.com/dropout-analytics/preprocessing-215-5m-rows-of-yellow-cab-data-with-blazingsql-f8ecaae29f7b?source=friends_link&sk=e8de26bcbf2baf2c99888848f48549fc))
 
