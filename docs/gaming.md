@@ -1,4 +1,4 @@
-# Gaming
+## Gaming
 
 ### Modern Warfare Season 2
 Call of Duty: Modern Warfare’s 2nd season brings back MW2 fan favorites with new & exciting ways for players to compete ([Friend link](https://medium.com/future-vision/season-2-d83221ffacce?source=friends_link&sk=eece57889b228ae97d1a46f2a51706ac))
