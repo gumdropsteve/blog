@@ -1,0 +1,22 @@
+# Data Science
+
+### ETL 215.5M rows of Taxi Data with BlazingSQL
+Preprocess > 30GB of NYC Yellow Cab data for Datashader visualization with a single Tesla T4 GPU ([Friend link](https://medium.com/dropout-analytics/preprocessing-215-5m-rows-of-yellow-cab-data-with-blazingsql-f8ecaae29f7b?source=friends_link&sk=e8de26bcbf2baf2c99888848f48549fc))
+
+### GPU Memory Pools and Performance with BlazingSQL
+Reduce overhead & further improve your GPU accelerated data science ([Friend link](https://blog.blazingdb.com/gpu-memory-pools-and-performance-with-blazingsql-9034c427a591?source=friends_link&sk=9d68298a6dd76b27bd727e5c0531d6e0))
+
+### Which GPUs work with RAPIDS?
+All RAPIDS compatible GPUs & prerequisites ([Friend link](https://medium.com/dropout-analytics/which-gpus-work-with-rapids-ai-f562ef29c75f?source=friends_link&sk=3ad1082fbd38df262bf04c164dbb3c0a))
+
+### Beginner’s Guide to Linear Regression in Google Colab with cuML
+Break down of simple & multiple linear regression and how to easily implement both in Python with RAPIDS AI’s cuML ([Friend link](https://medium.com/future-vision/beginners-guide-to-linear-regression-in-python-with-cuml-30e2709c761?source=friends_link&sk=1da35920b9e2ffea59d5cb3c998bfeae))
+
+### What is BlazingSQL?
+Nearing 100x faster than Apache Spark, BlazingSQL is backed by Samsung and NVIDIA — but what is it? (+ the GPU DataFrame) ([Friend link](https://medium.com/future-vision/what-is-blazingsql-33022a677dee?source=friends_link&sk=48619d5ee63ad82e0a22d244d4bcf43a))
+
+### How to Install RAPIDS in Google Colab
+Easy 3 step setup of RAPIDS AI suite on Tesla T4 or P100 instance (w/ pictures) ([Friend link](https://medium.com/dropout-analytics/installing-rapids-ai-in-google-colab-87c247f2c468?source=friends_link&sk=fb8f01ef11676624a19fc947f71d0ee9))
+
+### What is RAPIDS AI?
+NVIDIA’s new GPU acceleration of Data Science promises to rock the world — but what is it? (Quick & Easy Overview) ([Friend link](https://medium.com/future-vision/what-is-rapids-ai-7e552d80a1d2?source=friends_link&sk=64b79c363beeffb9923e16482f3977cc))
