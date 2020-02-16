@@ -8,5 +8,6 @@
 [Gaming](https://gumdropsteve.github.io/blog/docs/gaming)
 
 [Programming](https://gumdropsteve.github.io/blog/docs/programming)
+- [Selenium WebDriver](https://gumdropsteve.github.io/blog/docs/pr/selenium)
 
 [...](https://gumdropsteve.github.io/blog/docs/more)
