@@ -10,4 +10,6 @@
 [Programming](https://gumdropsteve.github.io/blog/docs/programming)
 - [Selenium WebDriver](https://gumdropsteve.github.io/blog/docs/pr/selenium)
 
+[Reading List](https://gumdropsteve.github.io/blog/docs/reading_list)
+
 [...](https://gumdropsteve.github.io/blog/docs/more)
