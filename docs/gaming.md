@@ -1,9 +1,12 @@
 ## Gaming
 
-#### Modern Warfare Season 2
+#### Call of Duty®: Warzone
+Free-to-play, cross-platform, 150 players, epic? ([Friend link](https://medium.com/future-vision/call-of-duty-warzone-965bd45ee420?source=friends_link&sk=528f0c87cc8eeb838e28b29216da29bc))
+
+#### Modern Warfare: Season 2
 Call of Duty: Modern Warfare’s 2nd season brings back MW2 fan favorites with new & exciting ways for players to compete ([Friend link](https://medium.com/future-vision/season-2-d83221ffacce?source=friends_link&sk=eece57889b228ae97d1a46f2a51706ac))
 
-#### Modern Warfare Season 1
+#### Modern Warfare: Season 1
 They literally copied Fortnite, just more expensive. But hey, Season One is live! ([Friend link](https://medium.com/future-vision/season-one-call-of-duty-3c4ae1106892?source=friends_link&sk=0f05fac454551a58d510079f2350ba65))
 
 #### Operation Dark Divide (Call of Duty®)
