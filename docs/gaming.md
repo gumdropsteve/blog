@@ -1,5 +1,8 @@
 ## Gaming
 
+#### Modern Warfare: Season 3
+Warzone Quads, new weapons, multiplayer maps and more ([Friend link](https://medium.com/future-vision/modern-warfare-season-3-f4685e4a043?source=friends_link&sk=b135e9e7b66a1aa0475d36e03d6e4ec8))
+
 #### Call of Duty®: Warzone
 Free-to-play, cross-platform, 150 players, epic? ([Friend link](https://medium.com/future-vision/call-of-duty-warzone-965bd45ee420?source=friends_link&sk=528f0c87cc8eeb838e28b29216da29bc))
 
