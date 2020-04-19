@@ -1,5 +1,8 @@
 ### BlazingSQL
 
+#### Data Visualization with BlazingSQL 
+Exploring NYC with Matplotlib, Datashader, HoloViews and cuxfilter ([Friend link](https://blog.blazingdb.com/data-visualization-with-blazingsql-12095862eb73?source=friends_link&sk=94fc5ee25f2a3356b4a9b9a49fd0f3a1%E2%80%A6))
+
 #### BlazingSQL Logs
 Evaluate query performance and execution with .log() ([Friend link](https://blog.blazingdb.com/blazingsql-logs-bcc139e16ee6?source=friends_link&sk=9ca6f41bdd754da4b9762988a8c93338))
 
