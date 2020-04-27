@@ -1,5 +1,9 @@
 ## Data Science
 
+
+#### Querying MinIO with BlazingSQL
+Build your own GPU-accelerated database in seconds [Friend link](https://blog.blazingdb.com/querying-minio-with-blazingsql-91b6b3485027?source=friends_link&sk=a30c725b5bd3e9394801e21fbf954283)
+
 #### Data Visualization with BlazingSQL 
 Exploring NYC with Matplotlib, Datashader, HoloViews and cuxfilter ([Friend link](https://blog.blazingdb.com/data-visualization-with-blazingsql-12095862eb73?source=friends_link&sk=94fc5ee25f2a3356b4a9b9a49fd0f3a1%E2%80%A6))
 
