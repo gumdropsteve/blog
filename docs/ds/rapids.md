@@ -1,5 +1,8 @@
 ### RAPIDS AI
 
+#### Beginner's Guide to BlazingSQL
+Everything you need to know when starting out with BlazingSQL (Walk-thru Example w/ Code) ([Friend link](https://medium.com/dropout-analytics/beginners-guide-to-blazingsql-9ab6c2a9c6ad?source=friends_link&sk=1c4a81ea2cb0a061423c2d370acb60f4))
+
 #### Querying MinIO with BlazingSQL
 Build your own GPU-accelerated database in seconds ([Friend link](https://blog.blazingdb.com/querying-minio-with-blazingsql-91b6b3485027?source=friends_link&sk=a30c725b5bd3e9394801e21fbf954283))
 
