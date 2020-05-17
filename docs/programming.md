@@ -1,5 +1,8 @@
 ## Programming
 
+#### Beginner's Guide to BlazingSQL
+Everything you need to know when starting out with BlazingSQL (Walk-thru Example w/ Code) ([Friend link](https://medium.com/dropout-analytics/beginners-guide-to-blazingsql-9ab6c2a9c6ad?source=friends_link&sk=1c4a81ea2cb0a061423c2d370acb60f4))
+
 #### Variables in Python
 Understand & set Pythonic variables ([Friend link](https://medium.com/dropout-analytics/variables-in-python-d95ba2b4d76?source=friends_link&sk=02fde3aecff02088a4728ddd40c39303))
 
