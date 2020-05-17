@@ -1,5 +1,8 @@
 ### BlazingSQL
 
+#### Distributed Linear Regression with cuML
+How to scale GPU machine learning with Dask (w/ code + data) ([Friend link](https://medium.com/dropout-analytics/distributed-linear-regression-with-cuml-b4f32d727e22?source=friends_link&sk=458531bdbb4cf88060d06736f2d4c646))
+
 #### Beginner's Guide to BlazingSQL
 Everything you need to know when starting out with BlazingSQL (Walk-thru Example w/ Code) ([Friend link](https://medium.com/dropout-analytics/beginners-guide-to-blazingsql-9ab6c2a9c6ad?source=friends_link&sk=1c4a81ea2cb0a061423c2d370acb60f4))
 
