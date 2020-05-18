@@ -41,6 +41,12 @@ They literally copied Fortnite, just more expensive. But hey, Season One is live
 #### Which GPUs work with RAPIDS?
 All RAPIDS compatible GPUs & prerequisites ([Friend link](https://medium.com/dropout-analytics/which-gpus-work-with-rapids-ai-f562ef29c75f?source=friends_link&sk=3ad1082fbd38df262bf04c164dbb3c0a))
 
+#### Variables in Python
+Understand & set Pythonic variables ([Friend link](https://medium.com/dropout-analytics/variables-in-python-d95ba2b4d76?source=friends_link&sk=02fde3aecff02088a4728ddd40c39303))
+
+#### Numbers & Numeric Operations
+Types of numbers in Python and how to use them ([Friend link](https://medium.com/dropout-analytics/numbers-numeric-operations-1e2a5bb21155?source=friends_link&sk=9e780f4d995916469cd59ddeb7c0d18a))
+
 #### Beginner’s Guide to Linear Regression in Google Colab with cuML
 Break down of simple & multiple linear regression and how to easily implement both in Python with RAPIDS AI’s cuML ([Friend link](https://medium.com/future-vision/beginners-guide-to-linear-regression-in-python-with-cuml-30e2709c761?source=friends_link&sk=1da35920b9e2ffea59d5cb3c998bfeae))
 
