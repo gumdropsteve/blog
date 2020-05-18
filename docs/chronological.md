@@ -133,3 +133,8 @@ Hydro Busts, micro-transactions out the wazoo & Zombies gets screwed (again) —
 
 #### Set up Selenium & GeckoDriver (Mac)
 3-step how to install & start using Selenium WebDriver Python bindings w/ example ([Friend link](https://medium.com/dropout-analytics/selenium-and-geckodriver-on-mac-b411dbfe61bc?source=friends_link&sk=18e2c2f07fbe1f8ae53fef5ad57dbb12))
+
+## 2017
+
+#### Offsite, the Vanguard of Construction
+The modular past, prefabricated present, and Promethean future of development ([LinkedIn](https://www.linkedin.com/pulse/what-offsite-why-do-you-care-winston-robson) | [Full version](sterlingbros.co.uk/offsite))
