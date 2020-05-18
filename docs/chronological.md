@@ -93,7 +93,7 @@ No, it’s not a music festival, I’m not cool enough to go to those.. ([Friend
 Prepare to go dark. Modern Warfare® is back, and ready to deploy October 25 ([Friend link](https://medium.com/future-vision/call-of-duty-modern-warfare-october-2019-official-9a31a4623110?source=friends_link&sk=d45609bc2ff935b2195cf79b003aa1b7))
 
 #### “Housing Is a Strong Financial Investment, probably”
-Key Findings from the 2019 SCE Housing Survey ([Friend link](https://medium.com/regarding-real-estate/housing-is-a-strong-financial-investment-probably-consumers-43e6f88a66eb?source=friends_link&sk=3295979372a131667a5983a949a6f985)
+Key Findings from the 2019 SCE Housing Survey ([Friend link](https://medium.com/regarding-real-estate/housing-is-a-strong-financial-investment-probably-consumers-43e6f88a66eb?source=friends_link&sk=3295979372a131667a5983a949a6f985))
 
 #### Top Reasons Americans are Moving
 Nobody moves anymore. Seriously. Except those who do. So why do they move? (#10 Desire for a shorter commute: 5%) ([Friend link](https://medium.com/regarding-real-estate/top-reasons-americans-are-moving-7cbc849d48a5?source=friends_link&sk=a8645969e6fca28f43cd23a3503b0c7f))
@@ -102,7 +102,7 @@ Nobody moves anymore. Seriously. Except those who do. So why do they move? (#10 
 Looking for a new home? Here’s how long it may take. ([Friend link](https://medium.com/regarding-real-estate/the-search-for-the-one-2f184e8b84d8?source=friends_link&sk=9eeedf35c954fecca238e04f9609cd10))
 
 #### Renters’ 10 Most-Requested Amenities
-10. Hardwood flooring, 9. Garage parking, 8. Bal… ([Friend link](https://medium.com/regarding-real-estate/renters-10-most-requested-amenities-bf5c3134790?source=friends_link&sk=6885fd9bf2208c462f62b13bd6497a1c))
+Hardwood flooring, 9. Garage parking, 8. Bal… ([Friend link](https://medium.com/regarding-real-estate/renters-10-most-requested-amenities-bf5c3134790?source=friends_link&sk=6885fd9bf2208c462f62b13bd6497a1c))
 
 #### Mortgage Rates Drop for Fourth Straight Week
 30-year fixed avg rate down 0.01% on week, down 0.50% on year ([Friend link](https://medium.com/regarding-real-estate/mortgage-rates-drop-for-fourth-straight-week-5cc053084f35?source=friends_link&sk=d1bee3ede6c8672b8b2f9c101be029d4))
