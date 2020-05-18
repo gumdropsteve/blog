@@ -30,6 +30,11 @@ Preprocess > 30GB of NYC Yellow Cab data for Datashader visualization with a sin
 #### GPU Memory Pools and Performance with BlazingSQL
 Reduce overhead & further improve your GPU accelerated data science ([Friend link](https://blog.blazingdb.com/gpu-memory-pools-and-performance-with-blazingsql-9034c427a591?source=friends_link&sk=9d68298a6dd76b27bd727e5c0531d6e0))
 
+#### How to add a Hangout video call in Google Calendar
+Add a Google Hangout meeting link to your meeting / event ([Friend link](https://medium.com/dropout-analytics/how-to-add-a-hangout-video-call-in-google-calendar-a5c1ac630d17?source=friends_link&sk=0f1d1d68700e0ed9fef5c4db1d87562e))
+
+## 2019
+
 #### Modern Warfare: Season 1
 They literally copied Fortnite, just more expensive. But hey, Season One is live! ([Friend link](https://medium.com/future-vision/season-one-call-of-duty-3c4ae1106892?source=friends_link&sk=0f05fac454551a58d510079f2350ba65))
 
@@ -42,8 +47,14 @@ Break down of simple & multiple linear regression and how to easily implement bo
 #### Operation Dark Divide (Call of Duty®)
 Black Ops 4’s final operation and everything cool is in Blackjack’s shop.. Microtransactions — yay! ([Friend link](https://medium.com/future-vision/operation-dark-divide-call-of-duty-cbe854c052ae?source=friends_link&sk=a0b1f654a0dc01ae512dbb51c3a3a402))
 
+#### Data Driven Lending in the Age of AI
+Why and how Oracle is digitizing the home loan process ([Friend link](https://medium.com/future-vision/data-driven-lending-in-the-age-of-ai-60c3ad39b500?source=friends_link&sk=e95b565cf34e8635de1d08c38fde63e3))
+
 #### What is BlazingSQL?
 Nearing 100x faster than Apache Spark, BlazingSQL is backed by Samsung and NVIDIA — but what is it? (+ the GPU DataFrame) ([Friend link](https://medium.com/future-vision/what-is-blazingsql-33022a677dee?source=friends_link&sk=48619d5ee63ad82e0a22d244d4bcf43a))
+
+#### New Uniform Residential Loan Application Delayed
+Fannie Mae, Freddie Mac delay implementation of first changes to mortgage application in past 20 years ([Friend link](https://medium.com/regarding-real-estate/new-uniform-residential-loan-application-delayed-186e68c6dc3a?source=friends_link&sk=a5ff0d2a1c271608156ae5a64915ee08))
 
 #### How to Install RAPIDS in Google Colab
 Easy 3 step setup of RAPIDS AI suite on Tesla T4 or P100 instance (w/ pictures) ([Friend link](https://medium.com/dropout-analytics/installing-rapids-ai-in-google-colab-87c247f2c468?source=friends_link&sk=fb8f01ef11676624a19fc947f71d0ee9))
@@ -51,24 +62,58 @@ Easy 3 step setup of RAPIDS AI suite on Tesla T4 or P100 instance (w/ pictures) 
 #### What is RAPIDS AI?
 NVIDIA’s new GPU acceleration of Data Science promises to rock the world — but what is it? (Quick & Easy Overview) ([Friend link](https://medium.com/future-vision/what-is-rapids-ai-7e552d80a1d2?source=friends_link&sk=64b79c363beeffb9923e16482f3977cc))
 
+#### How to Add a Story to a Medium Publication
+Easy step-by-step with pictures ([Friend link](https://medium.com/future-vision/adding-a-story-to-a-medium-publication-69b79ea5cc5?source=friends_link&sk=61eea0ef5f8c00c987b4a9eb826a1ec8))
+
 #### Intro to Facebook Prophet
 Walk-thru Example & Repo — Everything you need to know when starting out with Facebook’s time series forecasting tool ([Friend link](https://medium.com/future-vision/intro-to-prophet-9d5b1cbd674e?source=friends_link&sk=5709431ddc156b076b3cc1c22be3dcbf))
 
 #### Operation Apocalypse Z (Call of Duty®: Black Ops 4)
 The undead are rising in the latest Operation, as Zombies spread across all modes of Black Ops 4 ([Friend link](https://medium.com/future-vision/operation-apocalypse-z-ba27d825c9cf?source=friends_link&sk=a901d2056a226bbd7f7e3b4dc13c809d))
 
+#### Facebook Unveils Calibra
+“A New Digital Wallet for a New Digital Currency” ([Friend link](https://medium.com/future-vision/facebook-unveils-calibra-ec6115bdb1b3?source=friends_link&sk=eff248e08ce904ec76a143f238fa6d53))
+
 #### The Math of Prophet
 Breaking down the Equation behind Facebook’s open-source Time Series Forecasting procedure ([Friend link](https://medium.com/future-vision/the-math-of-prophet-46864fa9c55a?source=friends_link&sk=b7e8f8209ff2c020928655cf1cd3552c))
+
+#### Top 12 Most Affordable Metros for Newlyweds
+#9 Minne…#6 Hartford, CT #5 Orlan… (plus the 2 least affordable) ([Friend link](https://medium.com/regarding-real-estate/top-12-most-affordable-metros-for-newlyweds-685b993c9ce2?source=friends_link&sk=10896be0ce1cfb5cec5af0bb1e9ae2a7))
 
 #### Days of Summer event (Call of Duty®: Black Ops 4)
 No, it’s not a music festival, I’m not cool enough to go to those.. ([Friend link](https://medium.com/future-vision/days-of-summer-event-call-of-duty-black-ops-4-325d4728d152?source=friends_link&sk=2f62dc355ce18eabe7ea6fef97bf3a3d))
 
-####
+#### Call of Duty: Modern Warfare — October 2019; Official
+Prepare to go dark. Modern Warfare® is back, and ready to deploy October 25 ([Friend link](https://medium.com/future-vision/call-of-duty-modern-warfare-october-2019-official-9a31a4623110?source=friends_link&sk=d45609bc2ff935b2195cf79b003aa1b7))
+
+#### “Housing Is a Strong Financial Investment, probably”
+Key Findings from the 2019 SCE Housing Survey ([Friend link](https://medium.com/regarding-real-estate/housing-is-a-strong-financial-investment-probably-consumers-43e6f88a66eb?source=friends_link&sk=3295979372a131667a5983a949a6f985)
+
+#### Top Reasons Americans are Moving
+Nobody moves anymore. Seriously. Except those who do. So why do they move? (#10 Desire for a shorter commute: 5%) ([Friend link](https://medium.com/regarding-real-estate/top-reasons-americans-are-moving-7cbc849d48a5?source=friends_link&sk=a8645969e6fca28f43cd23a3503b0c7f))
+
+#### The search for “the one”
+Looking for a new home? Here’s how long it may take. ([Friend link](https://medium.com/regarding-real-estate/the-search-for-the-one-2f184e8b84d8?source=friends_link&sk=9eeedf35c954fecca238e04f9609cd10))
+
+#### Renters’ 10 Most-Requested Amenities
+10. Hardwood flooring, 9. Garage parking, 8. Bal… ([Friend link](https://medium.com/regarding-real-estate/renters-10-most-requested-amenities-bf5c3134790?source=friends_link&sk=6885fd9bf2208c462f62b13bd6497a1c))
+
+#### Mortgage Rates Drop for Fourth Straight Week
+30-year fixed avg rate down 0.01% on week, down 0.50% on year ([Friend link](https://medium.com/regarding-real-estate/mortgage-rates-drop-for-fourth-straight-week-5cc053084f35?source=friends_link&sk=d1bee3ede6c8672b8b2f9c101be029d4))
+
+#### Couple Fined $600,000 for Trying (and failing) to Move 180-year-old Tree
+The oak tree was protected under a conservation easement. Obviously, this was in California. ([Friend link](https://medium.com/regarding-real-estate/fined-600-000-for-trying-and-failing-to-move-180-year-old-tree-8c7473b22042?source=friends_link&sk=cbe21629016e3476f7383cb1456eec37))
+
+#### FHA Commissioner: New Rules Coming to Ease Condo Policies
+Law | Residential | Residential Income ([Friend link](https://medium.com/regarding-real-estate/fha-commissioner-new-rules-coming-to-ease-condo-policies-1c543f38cde6?source=friends_link&sk=02f1c1bcd16ee0eb9e377fc32dcd2cd5))
+
+#### $1k Monthly Mortgage? Yes. Here’s where it’s Possible.
+Top 10 Places You can call Home for $1,000 per Month ([Friend link](https://medium.com/regarding-real-estate/1k-monthly-mortgage-yes-heres-where-it-s-possible-9dee27d9299f?source=friends_link&sk=f7841c8a3035fc95bd455bd0deac513f))
 
 #### “That’s Who We R” Gets Nod of Approval through 2022
 NAR renews commitment to advert aimed at distinguishing REALTORS® from other real estate agents ([Friend link](https://medium.com/regarding-real-estate/thats-who-we-r-gets-nod-of-approval-through-2022-b4cc67f99769?source=friends_link&sk=0c21daf58a8484bb3118e3c0fa45e7d3))
 
-#### Intro to Object-oriented Programming in Python
+#### Object-oriented Programming in Python
 OOP from the ground up with Examples from Pikachu and Bay Area Rapid Transit (BART) ([Friend link](https://medium.com/future-vision/intro-to-oop-with-python-39ba63967e45?source=friends_link&sk=c0120fc17f021096f3cdc4539cf69441))
 
 #### Jury Awards California Couple $2 Billion, and that’s no Roundup
