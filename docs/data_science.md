@@ -1,5 +1,8 @@
 ## Data Science
 
+#### Distributed SQL with Dask
+Scale your Python data science across multiple GPUs with BlazingSQL (w/ code + data) ([Friend link](https://blog.blazingdb.com/distributed-sql-with-dask-2979262acc8a?source=friends_link&sk=077319064cd7d9e18df8c0292eb5d33d))
+
 #### Distributed Linear Regression with cuML
 How to scale GPU machine learning with Dask (w/ code + data) ([Friend link](https://medium.com/dropout-analytics/distributed-linear-regression-with-cuml-b4f32d727e22?source=friends_link&sk=458531bdbb4cf88060d06736f2d4c646))
 
