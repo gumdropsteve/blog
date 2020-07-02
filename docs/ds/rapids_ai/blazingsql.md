@@ -1,5 +1,8 @@
 ### BlazingSQL
 
+#### BlazingSQL Docs Example Notebooks 
+Run GPU code from our Docs in seconds through BlazingSQL Notebooks ([Friend link](https://blog.blazingdb.com/blazingsql-docs-example-notebooks-ad9259e2b8be?source=friends_link&sk=8ec0bd7e093065442ee098b62ddc9f89))
+
 #### Distributed SQL with Dask
 Scale your Python data science across multiple GPUs with BlazingSQL (w/ code + data) ([Friend link](https://blog.blazingdb.com/distributed-sql-with-dask-2979262acc8a?source=friends_link&sk=077319064cd7d9e18df8c0292eb5d33d))
 
