@@ -1,1 +1,2 @@
 - _[The Art of War](books/the_art_of_war)_ by Sun Tzu (Translated by Lionel Giles)
+- _[John D. Rockefeller's Secret Weapon](https://openlibrary.org/works/OL6091923W/John_D._Rockefeller's_secret_weapon)_ by Albert Z. Carr
