@@ -1,1 +1,1 @@
-- _[The Art of War](books/art_of_war)_ by Sun Tzu (Translated by Lionel Giles)
+- _[The Art of War](books/the_art_of_war)_ by Sun Tzu (Translated by Lionel Giles)
