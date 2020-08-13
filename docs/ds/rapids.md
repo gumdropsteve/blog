@@ -1,5 +1,8 @@
 ### RAPIDS AI
 
+#### Beginner’s Guide to KNN with cuML
+What is K-Nearest Neighbors? And how to implement it in Python with RAPIDS cuML ([Friend link](https://medium.com/dropout-analytics/beginners-guide-to-knn-with-cuml-ddca099f9e9d?source=friends_link&sk=2c1ba843151c0c538fff7bd61fd6eeb1))
+
 #### BlazingSQL Docs Example Notebooks 
 Run GPU code from our Docs in seconds through BlazingSQL Notebooks ([Friend link](https://blog.blazingdb.com/blazingsql-docs-example-notebooks-ad9259e2b8be?source=friends_link&sk=8ec0bd7e093065442ee098b62ddc9f89))
 
