@@ -1,5 +1,8 @@
 ## Chronological
 
+#### Cross-Validating Prophet at Scale
+Parallelizing Time Series Cross-Validation and Hyperparameter Optimization with Dask (Applied Example w/ Code) ([Friend link](https://medium.com/dropout-analytics/cross-validating-prophet-at-scale-72b1a21b6433?source=friends_link&sk=e7b1201491dd528dfa3ad3b9a324518c))
+
 #### Beginner's Guide to Logistic Regression with cuML
 What is Logistic Regression? And how to implement it in Python with RAPIDS cuML ([Friend link](https://medium.com/dropout-analytics/beginners-guide-to-logistic-regression-with-cuml-5061086d8694?source=friends_link&sk=2d8d0f7ddd43ccaaf264afcbadeea231))
 
