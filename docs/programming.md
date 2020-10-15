@@ -1,5 +1,8 @@
 ## Programming
 
+#### Selenium Webdriver on Jetson Nano
+(Python) Set up Chromium Chromedriver and get started. (+ sample code) ([Friend link](https://medium.com/dropout-analytics/selenium-webdriver-on-jetson-nano-4e38cca8e61d?source=friends_link&sk=01dbca520c2359bbebaf6376c6f5dad7))
+
 #### Beginner's Guide to BlazingSQL
 Everything you need to know when starting out with BlazingSQL (Walk-thru Example w/ Code) ([Friend link](https://medium.com/dropout-analytics/beginners-guide-to-blazingsql-9ab6c2a9c6ad?source=friends_link&sk=1c4a81ea2cb0a061423c2d370acb60f4))
 
