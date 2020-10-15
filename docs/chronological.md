@@ -1,5 +1,8 @@
 ## Chronological
 
+#### Selenium Webdriver on Jetson Nano
+(Python) Set up Chromium Chromedriver and get started. (+ sample code) ([Friend link](https://medium.com/dropout-analytics/selenium-webdriver-on-jetson-nano-4e38cca8e61d?source=friends_link&sk=01dbca520c2359bbebaf6376c6f5dad7))
+
 #### Cross-Validating Prophet at Scale
 Parallelizing Time Series Cross-Validation and Hyperparameter Optimization with Dask (Applied Example w/ Code) ([Friend link](https://medium.com/dropout-analytics/cross-validating-prophet-at-scale-72b1a21b6433?source=friends_link&sk=e7b1201491dd528dfa3ad3b9a324518c))
 
