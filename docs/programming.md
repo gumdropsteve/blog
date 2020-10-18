@@ -1,5 +1,8 @@
 ## Programming
 
+#### PyCUDA on Jetson Nano
+Set up and get started (+ test code) ([Friend link](https://medium.com/dropout-analytics/pycuda-on-jetson-nano-7990decab299?source=friends_link&sk=79a6874e10bac86d04015158fd9ef502))
+
 #### Selenium Webdriver on Jetson Nano
 (Python) Set up Chromium Chromedriver and get started. (+ sample code) ([Friend link](https://medium.com/dropout-analytics/selenium-webdriver-on-jetson-nano-4e38cca8e61d?source=friends_link&sk=01dbca520c2359bbebaf6376c6f5dad7))
 
