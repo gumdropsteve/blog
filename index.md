@@ -3,9 +3,9 @@
 #### **Latest**
 
 [Chronological](docs/chronological)
+- [Intro to OpenCV CUDA](https://medium.com/dropout-analytics/intro-to-opencv-cuda-bcd7293f305d?sk=2831b32c873114d0ab0e5e33014bc145)
 - [PyCUDA on Jetson Nano](https://medium.com/dropout-analytics/pycuda-on-jetson-nano-7990decab299?source=friends_link&sk=79a6874e10bac86d04015158fd9ef5027)
 - [Selenium Webdriver on Jetson Nano](https://medium.com/dropout-analytics/selenium-webdriver-on-jetson-nano-4e38cca8e61d?source=friends_link&sk=01dbca520c2359bbebaf6376c6f5dad7)
-- [Cross-Validating Prophet at Scale](https://medium.com/dropout-analytics/cross-validating-prophet-at-scale-72b1a21b6433?source=friends_link&sk=e7b1201491dd528dfa3ad3b9a324518c)
 
 #### **Topics**
 

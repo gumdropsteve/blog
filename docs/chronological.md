@@ -1,5 +1,8 @@
 ## Chronological
 
+#### Intro to OpenCV CUDA
+From single image to Dask Delayed ([Friend link](https://medium.com/dropout-analytics/intro-to-opencv-cuda-bcd7293f305d?sk=2831b32c873114d0ab0e5e33014bc145))
+
 #### PyCUDA on Jetson Nano
 Set up and get started (+ test code) ([Friend link](https://medium.com/dropout-analytics/pycuda-on-jetson-nano-7990decab299?source=friends_link&sk=79a6874e10bac86d04015158fd9ef502))
 
