@@ -1,5 +1,8 @@
 ## Data Science
 
+#### Intro to OpenCV CUDA
+From single image to Dask Delayed ([Friend link](https://medium.com/dropout-analytics/intro-to-opencv-cuda-bcd7293f305d?sk=2831b32c873114d0ab0e5e33014bc145))
+
 #### Cross-Validating Prophet at Scale
 Parallelizing Time Series Cross-Validation and Hyperparameter Optimization with Dask (Applied Example w/ Code) ([Friend link](https://medium.com/dropout-analytics/cross-validating-prophet-at-scale-72b1a21b6433?source=friends_link&sk=e7b1201491dd528dfa3ad3b9a324518c))
 
