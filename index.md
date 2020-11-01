@@ -13,6 +13,7 @@
 - [Facebook Prophet](docs/ds/prophet)
 - [RAPIDS AI](docs/ds/rapids)
   - [BlazingSQL](docs/ds/rapids_ai/blazingsql)
+  - [cuML](docs/ds/rapids_ai/cuml)
 
 [Gaming](docs/gaming)
 
