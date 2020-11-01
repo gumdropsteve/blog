@@ -10,6 +10,7 @@
 #### **Topics**
 
 [Data Science](docs/data_science)
+- [Dask](docs/ds/dask)
 - [Facebook Prophet](docs/ds/prophet)
 - [RAPIDS AI](docs/ds/rapids)
   - [BlazingSQL](docs/ds/rapids_ai/blazingsql)
