@@ -1,5 +1,8 @@
 ## Chronological
 
+#### OpenCV CUDA for Videos
+(On Jetson Nano.) No camera required. ([Friend link](https://medium.com/dropout-analytics/opencv-cuda-for-videos-f3dcf346e398?source=friends_link&sk=d5522a6e51c7faf83e5632e4ef0fd5ab))
+
 #### Intro to OpenCV CUDA
 From single image to Dask Delayed ([Friend link](https://medium.com/dropout-analytics/intro-to-opencv-cuda-bcd7293f305d?sk=2831b32c873114d0ab0e5e33014bc145))
 
