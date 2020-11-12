@@ -1,5 +1,8 @@
 ## Chronological
 
+#### Intro to Prophet (R)
+Getting started with Facebook Prophet’s R API (real data + code) ([Friend link](https://medium.com/dropout-analytics/intro-to-prophet-r-7f650f86adc7?source=friends_link&sk=6d1b17788f9a23336a190b479b9cd8ec))
+
 #### OpenCV CUDA for Videos
 (On Jetson Nano.) No camera required. ([Friend link](https://medium.com/dropout-analytics/opencv-cuda-for-videos-f3dcf346e398?source=friends_link&sk=d5522a6e51c7faf83e5632e4ef0fd5ab))
 
