@@ -1,5 +1,8 @@
 ## Programming
 
+#### Introducing SmartRPA
+Neighbor to Neighbor Real Estate Transactions ([Friend link](https://medium.com/regarding-real-estate/introducing-smartrpa-5e0c24c69795?source=friends_link&sk=ec6d57fb1b5f248e498fb67f1db8812c))
+
 #### PyCUDA on Jetson Nano
 Set up and get started (+ test code) ([Friend link](https://medium.com/dropout-analytics/pycuda-on-jetson-nano-7990decab299?source=friends_link&sk=79a6874e10bac86d04015158fd9ef502))
 
