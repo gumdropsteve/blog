@@ -21,4 +21,4 @@
 [Programming](docs/programming)
 - [Selenium WebDriver](docs/pr/selenium)
 
-[...](docs/more)
+[More...](docs/more) | [Reading List](docs/reading_list)
