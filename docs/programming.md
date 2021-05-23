@@ -1,5 +1,17 @@
 ## Programming
 
+#### Introducing SmartRPA
+Neighbor to Neighbor Real Estate Transactions ([Friend link](https://medium.com/regarding-real-estate/introducing-smartrpa-5e0c24c69795?source=friends_link&sk=ec6d57fb1b5f248e498fb67f1db8812c))
+
+#### PyCUDA on Jetson Nano
+Set up and get started (+ test code) ([Friend link](https://medium.com/dropout-analytics/pycuda-on-jetson-nano-7990decab299?source=friends_link&sk=79a6874e10bac86d04015158fd9ef502))
+
+#### Selenium Webdriver on Jetson Nano
+(Python) Set up Chromium Chromedriver and get started. (+ sample code) ([Friend link](https://medium.com/dropout-analytics/selenium-webdriver-on-jetson-nano-4e38cca8e61d?source=friends_link&sk=01dbca520c2359bbebaf6376c6f5dad7))
+
+#### Beginner's Guide to BlazingSQL
+Everything you need to know when starting out with BlazingSQL (Walk-thru Example w/ Code) ([Friend link](https://medium.com/dropout-analytics/beginners-guide-to-blazingsql-9ab6c2a9c6ad?source=friends_link&sk=1c4a81ea2cb0a061423c2d370acb60f4))
+
 #### Variables in Python
 Understand & set Pythonic variables ([Friend link](https://medium.com/dropout-analytics/variables-in-python-d95ba2b4d76?source=friends_link&sk=02fde3aecff02088a4728ddd40c39303))
 
