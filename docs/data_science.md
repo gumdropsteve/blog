@@ -1,5 +1,8 @@
 ## Data Science
 
+#### Query the Blockchain with Python
+Connecting to NEAR Indexer for Explorer with psycopg2 ([Friend link](https://medium.com/dropout-analytics/query-the-blockchain-with-python-78212c4faf7a?source=friends_link&sk=baf62808be8a1961ea70cdf457cda06d))
+
 #### Prophet any Stock in Seconds
 Free on Google Colab ([Friend link](https://medium.com/dropout-analytics/prophet-any-stock-in-seconds-5f9479977aea?source=friends_link&sk=9617b7531d148d602b891a81f86e355b))
 
