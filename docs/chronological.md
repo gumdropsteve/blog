@@ -1,5 +1,8 @@
 ## Chronological
 
+#### Query the Blockchain with Python
+Connecting to NEAR Indexer for Explorer with psycopg2 ([Friend link](https://medium.com/dropout-analytics/query-the-blockchain-with-python-78212c4faf7a?source=friends_link&sk=baf62808be8a1961ea70cdf457cda06d))
+
 #### Introducing SmartRPA
 Neighbor to Neighbor Real Estate Transactions ([Friend link](https://medium.com/regarding-real-estate/introducing-smartrpa-5e0c24c69795?source=friends_link&sk=ec6d57fb1b5f248e498fb67f1db8812c))
 
