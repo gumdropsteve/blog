@@ -1,8 +1,9 @@
 - _[The Art of War](books/the_art_of_war)_ by Sun Tzu (Translated by Lionel Giles)
 - _[John D. Rockefeller's Secret Weapon](https://openlibrary.org/works/OL6091923W/John_D._Rockefeller's_secret_weapon)_ by Albert Z. Carr
-- _[The House of Morgan](https://www.amazon.com/The-House-of-Morgan-Ron-Chernow-audiobook/dp/B00I3P36ZU/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)_ by Ron Chernow
-- _[Last Man Standing: The Ascent of Jamie Dimon and JPMorgan Chase](https://www.amazon.com/Last-Man-Standing-Ascent-JPMorgan/dp/1416599541)_ by Duff McDonald
+- _[The House of Morgan](https://www.amazon.com/gp/product/0802144659?ie=UTF8&tag=winikillyou-20&camp=1789&linkCode=xm2&creativeASIN=0802144659)_ by Ron Chernow
+- _[Last Man Standing: The Ascent of Jamie Dimon and JPMorgan Chase](https://www.amazon.com/gp/product/1416599541?ie=UTF8&tag=winikillyou-20&camp=1789&linkCode=xm2&creativeASIN=1416599541)_ by Duff McDonald
 - _[Free to Choose: A Personal Statement](https://www.amazon.com/Free-Choose-Statement-Milton-Friedman/dp/0156334607)_ by Milton and Rose Friedman
 - _[Demons](https://www.amazon.com/gp/product/0679734511/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=jordanbpetery-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0679734511&linkId=237e16790201da875392acedf088a6c2)_ by Fyodor Dostoevsky (Translated by Richard Pevear and Larissa Volokhonsky)
 - _[Affective Neuroscience: The Foundations of Human and Animal Emotions (Series in Affective Science)](https://www.amazon.com/gp/product/019517805X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=jordanbpetery-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=019517805X&linkId=24b4156a76ad19d281471ebe5949c5b8)_ by Jaak Panksep
 - _[Ordinary Men: Reserve Police Battalion 101 and the Final Solution in Poland](https://www.amazon.com/gp/product/0060995068/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=jordanbpetery-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0060995068&linkId=07b0fc7f0ed7cc6e4ea86e0ec2e33bae)_ by Christopher R. Browning
+- _[Snow Crash](https://www.amazon.com/gp/product/0553380958?ie=UTF8&tag=winikillyou-20&camp=1789&linkCode=xm2&creativeASIN=0553380958)_ by Neal Stephenson
