@@ -3,9 +3,9 @@
 #### **Latest**
 
 [Chronological](docs/chronological)
+- [Account Relationships on the NEAR Blockchain](https://medium.com/dropout-analytics/account-relationships-on-the-blockchain-2fcddc25a3b4?source=friends_link&sk=074c2f1012d99f31b1d5b4a6775879f9)
 - [Query the Blockchain with Python](https://medium.com/dropout-analytics/query-the-blockchain-with-python-78212c4faf7a?source=friends_link&sk=baf62808be8a1961ea70cdf457cda06d)
 - [Introducing SmartRPA](https://medium.com/regarding-real-estate/introducing-smartrpa-5e0c24c69795?source=friends_link&sk=ec6d57fb1b5f248e498fb67f1db8812c)
-- [Prophet any Stock in Seconds](https://medium.com/dropout-analytics/prophet-any-stock-in-seconds-5f9479977aea?source=friends_link&sk=9617b7531d148d602b891a81f86e355b)
 
 #### **Topics**
 
