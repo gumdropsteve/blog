@@ -1,5 +1,8 @@
 ### Facebook Prophet
 
+#### Account Relationships on the NEAR Blockchain
+High Level Dapp and Account Specific Transaction Flow ([Friend link](https://medium.com/dropout-analytics/account-relationships-on-the-blockchain-2fcddc25a3b4?source=friends_link&sk=074c2f1012d99f31b1d5b4a6775879f9))
+
 #### Prophet any Stock in Seconds
 Free on Google Colab ([Friend link](https://medium.com/dropout-analytics/prophet-any-stock-in-seconds-5f9479977aea?source=friends_link&sk=9617b7531d148d602b891a81f86e355b))
 
