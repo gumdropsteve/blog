@@ -1,5 +1,8 @@
 ## Chronological
 
+#### Introducing Metaverse Leaderboards
+Track the Top Trending Communities, Worlds, Lands, and Owners of the Metaverse ([Friend link](https://medium.com/wemeta/introducing-metaverse-leaderboards-93706415e33c?source=friends_link&sk=655de8b3d31e231ee896c1e2a5f95896))
+
 #### Account Relationships on the NEAR Blockchain
 High Level Dapp and Account Specific Transaction Flow ([Friend link](https://medium.com/dropout-analytics/account-relationships-on-the-blockchain-2fcddc25a3b4?source=friends_link&sk=074c2f1012d99f31b1d5b4a6775879f9))
 
