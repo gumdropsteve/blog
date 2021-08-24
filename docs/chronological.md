@@ -15,6 +15,8 @@ Connecting to NEAR Indexer for Explorer with psycopg2 ([Friend link](https://med
 #### Introducing SmartRPA
 Neighbor to Neighbor Real Estate Transactions ([Friend link](https://medium.com/regarding-real-estate/introducing-smartrpa-5e0c24c69795?source=friends_link&sk=ec6d57fb1b5f248e498fb67f1db8812c))
 
+## 2020
+
 #### Prophet any Stock in Seconds
 Free on Google Colab ([Friend link](https://medium.com/dropout-analytics/prophet-any-stock-in-seconds-5f9479977aea?source=friends_link&sk=9617b7531d148d602b891a81f86e355b))
 
