@@ -9,6 +9,8 @@
 
 #### **Topics**
 
+[Blockchain](docs/blockchain)
+
 [Data Science](docs/data_science)
 - [Dask](docs/ds/dask)
 - [Facebook Prophet](docs/ds/prophet)
