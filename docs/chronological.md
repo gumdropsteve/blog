@@ -1,5 +1,8 @@
 ## Chronological
 
+#### Zillow for the Metaverse
+Reintroducing the WeMeta NFT Land Aggregator ([Friend link](https://medium.com/wemeta/zillow-for-the-metaverse-60136b88ae97?source=friends_link&sk=dc18a2dcd2237d1fc1c71725b05acd6d))
+
 #### Introducing Metaverse Leaderboards
 Track the Top Trending Communities, Worlds, Lands, and Owners of the Metaverse ([Friend link](https://medium.com/wemeta/introducing-metaverse-leaderboards-93706415e33c?source=friends_link&sk=655de8b3d31e231ee896c1e2a5f95896))
 
