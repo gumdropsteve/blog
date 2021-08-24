@@ -10,7 +10,7 @@
 
 [Twitch](https://www.twitch.tv/princearthur)
 
-[Twitter](https://twitter.com/winstonarobson)
+[Twitter](https://twitter.com/gumdropsteve)
 
 #### **Let's be friends**
-[**Robinhood** get a free stock!](https://join.robinhood.com/winstor2)
+[Robinhood - get a free stock!](https://join.robinhood.com/winstor2)
