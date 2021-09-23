@@ -1,5 +1,8 @@
 ## Chronological
 
+#### Come Build the Metaverse
+We're hiring. ([Friend link](https://medium.com/wemeta/come-build-the-metaverse-dcf5ff3af1df?source=friends_link&sk=95b375b53dacd11c670a776365521755))
+
 #### Zillow for the Metaverse
 Reintroducing the WeMeta NFT Land Aggregator ([Friend link](https://medium.com/wemeta/zillow-for-the-metaverse-60136b88ae97?source=friends_link&sk=dc18a2dcd2237d1fc1c71725b05acd6d))
 
