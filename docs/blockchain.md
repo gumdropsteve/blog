@@ -1,5 +1,8 @@
 ## Blockchain
 
+#### WeMeta announces $1.1m funding round to help users buy, sell & build in the Metaverse
+([Friend link](https://medium.com/wemeta/wemeta-announces-1-1m-funding-round-to-help-users-buy-sell-build-in-the-metaverse-f0103b12281?source=friends_link&sk=5bf47080530794761b27d5c081dea7dc))
+
 #### Come Build the Metaverse
 We're hiring. ([Friend link](https://medium.com/wemeta/come-build-the-metaverse-dcf5ff3af1df?source=friends_link&sk=95b375b53dacd11c670a776365521755))
 
