@@ -10,6 +10,8 @@
 #### **Topics**
 
 [Blockchain](docs/blockchain)
+- [NEAR](docs/blockchain/near)
+- [WeMeta](docs/blockchain/wemeta)
 
 [Data Science](docs/data_science)
 - [Dask](docs/ds/dask)
