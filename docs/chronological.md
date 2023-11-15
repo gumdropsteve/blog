@@ -1,18 +1,15 @@
 ## Chronological
 
-#### MetaPoly and WeMeta Join Forces in Joint Venture
-Data Driven Lending for Web3 ([Link](https://medium.com/wemeta/metapoly-and-wemeta-join-forces-in-a-strategic-partnership-dda4813ed8e1))
-
-#### WeMeta Acquires MetaMetriks
-WeMeta Acquires Dashboard Company MetaMetriks to Expand Offerings ([Link](https://medium.com/wemeta/wemeta-acquires-metametriks-7fcb518b4b58))
-
-#### Shopify for the Metaverse
-WeMeta brings 3D analytics to Space Metaverse ([Link](https://medium.com/wemeta/shopify-for-the-metaverse-6918a08c4802))
+#### Blog Profile: WeMeta
+Web3 is the Metaverse. ([Link](https://medium.com/@WeMetaWorld))
 
 ## 2022
 
 #### Unlocking Metaverse Liquidity
-Introducing Pool Party NFT ([Friend link](https://medium.com/dropout-analytics/unlocking-metaverse-liquidity-4f6768b31290?sk=47ba7126e325a96b7b855b65492ede2c))
+Introducing Pool Party NFT ([Link](https://medium.com/dropout-analytics/unlocking-metaverse-liquidity-4f6768b31290?sk=47ba7126e325a96b7b855b65492ede2c))
+
+#### 'Does Radio Ring a Bell?': How the Metaverse Will Change Society
+The metaverse is the latest technological evolution to be scoffed at – but it will change everything. This article is part of "Metaverse Week." ([Link](https://www.coindesk.com/layer2/2022/05/25/does-radio-ring-a-bell-how-the-metaverse-will-change-society/))
 
 #### WeMeta Launches The World’s First Metaverse Analytics Engine
 Introducing WeMeta 1.0 ([Friend link](https://medium.com/wemeta/wemeta-launches-the-first-metaverse-analytics-engine-1979a674dafa?source=friends_link&sk=a0965290ce04f66bb03edede4845db63))
