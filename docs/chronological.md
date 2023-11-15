@@ -1,5 +1,10 @@
 ## Chronological
 
+## 2022
+
+#### Unlocking Metaverse Liquidity
+Introducing Pool Party NFT ([Friend link](https://medium.com/dropout-analytics/unlocking-metaverse-liquidity-4f6768b31290?sk=47ba7126e325a96b7b855b65492ede2c))
+
 #### WeMeta Launches The World’s First Metaverse Analytics Engine
 Introducing WeMeta 1.0 ([Friend link](https://medium.com/wemeta/wemeta-launches-the-first-metaverse-analytics-engine-1979a674dafa?source=friends_link&sk=a0965290ce04f66bb03edede4845db63))
 
