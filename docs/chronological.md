@@ -1,5 +1,14 @@
 ## Chronological
 
+#### MetaPoly and WeMeta Join Forces in Joint Venture
+Data Driven Lending for Web3 ([Link](https://medium.com/wemeta/metapoly-and-wemeta-join-forces-in-a-strategic-partnership-dda4813ed8e1))
+
+#### WeMeta Acquires MetaMetriks
+WeMeta Acquires Dashboard Company MetaMetriks to Expand Offerings ([Link](https://medium.com/wemeta/wemeta-acquires-metametriks-7fcb518b4b58))
+
+#### Shopify for the Metaverse
+WeMeta brings 3D analytics to Space Metaverse ([Link](https://medium.com/wemeta/shopify-for-the-metaverse-6918a08c4802))
+
 ## 2022
 
 #### Unlocking Metaverse Liquidity
