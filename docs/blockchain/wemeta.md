@@ -1,5 +1,7 @@
 ## WeMeta
 
+## 2023 
+
 #### MetaPoly and WeMeta Join Forces in Joint Venture
 Data Driven Lending for Web3 ([Link](https://medium.com/wemeta/metapoly-and-wemeta-join-forces-in-a-strategic-partnership-dda4813ed8e1))
 
@@ -9,11 +11,18 @@ WeMeta Acquires Dashboard Company MetaMetriks to Expand Offerings ([Link](https:
 #### Shopify for the Metaverse
 WeMeta brings 3D analytics to Space Metaverse ([Link](https://medium.com/wemeta/shopify-for-the-metaverse-6918a08c4802))
 
+## 2022
+
+#### 'Does Radio Ring a Bell?': How the Metaverse Will Change Society
+The metaverse is the latest technological evolution to be scoffed at – but it will change everything. This article is part of "Metaverse Week." ([Link](https://www.coindesk.com/layer2/2022/05/25/does-radio-ring-a-bell-how-the-metaverse-will-change-society/))
+
 #### What Breaking Through Looks Like
 The Sudden Rise of “NFT Worlds” ([Link](https://medium.com/wemeta/what-breaking-through-looks-like-2168041f447e))
 
 #### WeMeta Launches The World’s First Metaverse Analytics Engine
 Introducing WeMeta 1.0 ([Friend link](https://medium.com/wemeta/wemeta-launches-the-first-metaverse-analytics-engine-1979a674dafa?source=friends_link&sk=a0965290ce04f66bb03edede4845db63))
+
+## 2021
 
 #### WeMeta announces $1.1m funding round to help users buy, sell & build in the Metaverse
 ([Friend link](https://medium.com/wemeta/wemeta-announces-1-1m-funding-round-to-help-users-buy-sell-build-in-the-metaverse-f0103b12281?source=friends_link&sk=5bf47080530794761b27d5c081dea7dc))
