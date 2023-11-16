@@ -1,13 +1,15 @@
 # blog
 
-#### **Latest**
+#### Latest
+All in [Chronological](docs/chronological) order.
 
-[Chronological](docs/chronological)
-- [Unlocking Metaverse Liquidity](https://medium.com/dropout-analytics/unlocking-metaverse-liquidity-4f6768b31290?sk=47ba7126e325a96b7b855b65492ede2c)
+#### Featured Content
+- [The Metaverse or Metaverses? Why We Need Interoperability](https://www.coindesk.com/video/the-metaverse-or-metaverses-why-we-need-interoperability/)
+- ['Does Radio Ring a Bell?': How the Metaverse Will Change Society](https://www.coindesk.com/layer2/2022/05/25/does-radio-ring-a-bell-how-the-metaverse-will-change-society/)
 - [WeMeta Launches The World’s First Metaverse Analytics Engine](https://medium.com/wemeta/wemeta-launches-the-first-metaverse-analytics-engine-1979a674dafa?source=friends_link&sk=a0965290ce04f66bb03edede4845db63)
-- [WeMeta announces $1.1m funding round to help users buy, sell & build in the Metaverse](https://medium.com/wemeta/wemeta-announces-1-1m-funding-round-to-help-users-buy-sell-build-in-the-metaverse-f0103b12281?source=friends_link&sk=5bf47080530794761b27d5c081dea7dc)
 
-#### **Categories**
+#### Categories
+=======
 
 [Blockchain](docs/blockchain)
 - [NEAR](docs/blockchain/near)
