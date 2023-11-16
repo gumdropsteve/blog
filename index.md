@@ -7,7 +7,7 @@
 - [WeMeta Launches The World’s First Metaverse Analytics Engine](https://medium.com/wemeta/wemeta-launches-the-first-metaverse-analytics-engine-1979a674dafa?source=friends_link&sk=a0965290ce04f66bb03edede4845db63)
 - [WeMeta announces $1.1m funding round to help users buy, sell & build in the Metaverse](https://medium.com/wemeta/wemeta-announces-1-1m-funding-round-to-help-users-buy-sell-build-in-the-metaverse-f0103b12281?source=friends_link&sk=5bf47080530794761b27d5c081dea7dc)
 
-#### **Topics**
+#### **Categories**
 
 [Blockchain](docs/blockchain)
 - [NEAR](docs/blockchain/near)
