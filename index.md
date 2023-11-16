@@ -9,6 +9,7 @@ All in [Chronological](docs/chronological) order.
 - [WeMeta Launches The World’s First Metaverse Analytics Engine](https://medium.com/wemeta/wemeta-launches-the-first-metaverse-analytics-engine-1979a674dafa?source=friends_link&sk=a0965290ce04f66bb03edede4845db63)
 
 #### Categories
+=======
 
 [Blockchain](docs/blockchain)
 - [NEAR](docs/blockchain/near)
