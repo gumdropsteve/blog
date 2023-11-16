@@ -1,4 +1,4 @@
 # blog
-Simple GitHub pages site listing things I publish on various platforms like "friend links" to my Medium stories.
+Simple site ([link](https://gumdropsteve.github.io/blog/)) listing things I publish on various platforms.
 
-Sort is chronological, with the newest on top, and can be broken down by topic (e.g. Data Science, Gaming, Programming) or by sub-category within a topic (e.g. RAPIDS AI is a subcategory of Data Science).
+The content is presented in reverse chronological order. A full list can be found [here](https://gumdropsteve.github.io/blog/docs/chronological), or by category (many of which have multiple topics).
