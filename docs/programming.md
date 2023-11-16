@@ -1,7 +1,16 @@
 ## Programming
 
+## 2022
+
+#### Unlocking Metaverse Liquidity
+Introducing Pool Party NFT ([Friend link](https://medium.com/dropout-analytics/unlocking-metaverse-liquidity-4f6768b31290?sk=47ba7126e325a96b7b855b65492ede2c))
+
+## 2021
+
 #### Introducing SmartRPA
 Neighbor to Neighbor Real Estate Transactions ([Friend link](https://medium.com/regarding-real-estate/introducing-smartrpa-5e0c24c69795?source=friends_link&sk=ec6d57fb1b5f248e498fb67f1db8812c))
+
+## 2020
 
 #### PyCUDA on Jetson Nano
 Set up and get started (+ test code) ([Friend link](https://medium.com/dropout-analytics/pycuda-on-jetson-nano-7990decab299?source=friends_link&sk=79a6874e10bac86d04015158fd9ef502))
