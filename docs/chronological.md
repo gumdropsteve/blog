@@ -1,5 +1,8 @@
 ## Chronological
 
+#### What is RAG in Generative AI?
+What is Retrieval Augmented Generation? ([Link](https://medium.com/dropout-analytics/what-is-rag-in-generative-ai-f5b8c13575f8?sk=c72a0cf47a1bf91fab094d1c2181bb54))
+
 #### Blog Profile: WeMeta
 Web3 is the Metaverse. ([Link](https://medium.com/@WeMetaWorld))
 
