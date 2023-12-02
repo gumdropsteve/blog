@@ -1,5 +1,8 @@
 ## Data Science
 
+#### What is RAG in Generative AI?
+What is Retrieval Augmented Generation? ([Link](https://medium.com/dropout-analytics/what-is-rag-in-generative-ai-f5b8c13575f8?sk=c72a0cf47a1bf91fab094d1c2181bb54))
+
 #### Account Relationships on the NEAR Blockchain
 High Level Dapp and Account Specific Transaction Flow ([Friend link](https://medium.com/dropout-analytics/account-relationships-on-the-blockchain-2fcddc25a3b4?source=friends_link&sk=074c2f1012d99f31b1d5b4a6775879f9))
 
