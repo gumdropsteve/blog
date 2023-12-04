@@ -1,5 +1,8 @@
 ## Chronological
 
+#### What are Liquid Staking Tokens?
+And Ethereum Staking Narratives ([Link](https://medium.com/dropout-analytics/what-are-liquid-staking-tokens-a0568938f553?sk=a2e07a3fe984ddf277c4ff6ca4992bdd))
+
 #### What is RAG in Generative AI?
 What is Retrieval Augmented Generation? ([Link](https://medium.com/dropout-analytics/what-is-rag-in-generative-ai-f5b8c13575f8?sk=c72a0cf47a1bf91fab094d1c2181bb54))
 

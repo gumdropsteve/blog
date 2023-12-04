@@ -2,6 +2,9 @@
 
 ## 2023 
 
+#### What are Liquid Staking Tokens?
+And Ethereum Staking Narratives ([Link](https://medium.com/dropout-analytics/what-are-liquid-staking-tokens-a0568938f553?sk=a2e07a3fe984ddf277c4ff6ca4992bdd))
+
 #### MetaPoly and WeMeta Join Forces in Joint Venture
 Data Driven Lending for Web3 ([Link](https://medium.com/wemeta/metapoly-and-wemeta-join-forces-in-a-strategic-partnership-dda4813ed8e1))
 
