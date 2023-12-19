@@ -1,16 +1,22 @@
 ## Data Science
 
+## 2023
+
 #### Most Popular DEX?
 Comparing Crosschain Decentralized Exchanges GMX, Sushi, Osmosis and their Ability to Convert Web Visitors ([Link](https://warobson.medium.com/most-popular-dex-8696f3651753?sk=93b375aa7cdf9399ed0790ee06943776))
 
 #### What is RAG in Generative AI?
 What is Retrieval Augmented Generation? ([Link](https://medium.com/dropout-analytics/what-is-rag-in-generative-ai-f5b8c13575f8?sk=c72a0cf47a1bf91fab094d1c2181bb54))
 
+## 2021
+
 #### Account Relationships on the NEAR Blockchain
 High Level Dapp and Account Specific Transaction Flow ([Friend link](https://medium.com/dropout-analytics/account-relationships-on-the-blockchain-2fcddc25a3b4?source=friends_link&sk=074c2f1012d99f31b1d5b4a6775879f9))
 
 #### Query the NEAR Blockchain with Python
 Connecting to NEAR Indexer for Explorer with psycopg2 ([Friend link](https://medium.com/dropout-analytics/query-the-blockchain-with-python-78212c4faf7a?source=friends_link&sk=baf62808be8a1961ea70cdf457cda06d))
+
+## 2020
 
 #### Prophet any Stock in Seconds
 Free on Google Colab ([Friend link](https://medium.com/dropout-analytics/prophet-any-stock-in-seconds-5f9479977aea?source=friends_link&sk=9617b7531d148d602b891a81f86e355b))
@@ -61,7 +67,9 @@ Evaluate query performance and execution with .log() ([Friend link](https://blog
 Preprocess > 30GB of NYC Yellow Cab data for Datashader visualization with a single Tesla T4 GPU ([Friend link](https://medium.com/dropout-analytics/preprocessing-215-5m-rows-of-yellow-cab-data-with-blazingsql-f8ecaae29f7b?source=friends_link&sk=e8de26bcbf2baf2c99888848f48549fc))
 
 #### GPU Memory Pools and Performance with BlazingSQL
-Reduce overhead & further improve your GPU accelerated data science ([Friend link](https://blog.blazingdb.com/gpu-memory-pools-and-performance-with-blazingsql-9034c427a591?source=friends_link&sk=9d68298a6dd76b27bd727e5c0531d6e0))
+Reduce overhead & further improve your GPU accelerated data science ([Friend link](https://medium.com/blazingdb/gpu-memory-pools-and-performance-with-blazingsql-9034c427a591?sk=9d68298a6dd76b27bd727e5c0531d6e0))
+
+## 2019
 
 #### Which GPUs work with RAPIDS?
 All RAPIDS compatible GPUs & prerequisites ([Friend link](https://medium.com/dropout-analytics/which-gpus-work-with-rapids-ai-f562ef29c75f?source=friends_link&sk=3ad1082fbd38df262bf04c164dbb3c0a))
