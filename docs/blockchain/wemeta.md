@@ -2,6 +2,9 @@
 
 ## 2023 
 
+#### Most Popular DEX?
+Comparing Crosschain Decentralized Exchanges GMX, Sushi, Osmosis and their Ability to Convert Web Visitors ([Link](https://warobson.medium.com/most-popular-dex-8696f3651753?sk=93b375aa7cdf9399ed0790ee06943776))
+
 #### MetaPoly and WeMeta Join Forces in Joint Venture
 Data Driven Lending for Web3 ([Link](https://medium.com/wemeta/metapoly-and-wemeta-join-forces-in-a-strategic-partnership-dda4813ed8e1))
 

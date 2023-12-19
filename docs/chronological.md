@@ -1,5 +1,10 @@
 ## Chronological
 
+## 2023
+
+#### Most Popular DEX?
+Comparing Crosschain Decentralized Exchanges GMX, Sushi, Osmosis and their Ability to Convert Web Visitors ([Link](https://warobson.medium.com/most-popular-dex-8696f3651753?sk=93b375aa7cdf9399ed0790ee06943776))
+
 #### What are Liquid Staking Tokens?
 And Ethereum Staking Narratives ([Link](https://medium.com/dropout-analytics/what-are-liquid-staking-tokens-a0568938f553?sk=a2e07a3fe984ddf277c4ff6ca4992bdd))
 
