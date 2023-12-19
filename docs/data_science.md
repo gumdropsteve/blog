@@ -1,5 +1,8 @@
 ## Data Science
 
+#### Most Popular DEX?
+Comparing Crosschain Decentralized Exchanges GMX, Sushi, Osmosis and their Ability to Convert Web Visitors ([Link](https://warobson.medium.com/most-popular-dex-8696f3651753?sk=93b375aa7cdf9399ed0790ee06943776))
+
 #### What is RAG in Generative AI?
 What is Retrieval Augmented Generation? ([Link](https://medium.com/dropout-analytics/what-is-rag-in-generative-ai-f5b8c13575f8?sk=c72a0cf47a1bf91fab094d1c2181bb54))
 
