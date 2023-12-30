@@ -77,6 +77,9 @@ All RAPIDS compatible GPUs & prerequisites ([Friend link](https://medium.com/dro
 #### Beginner’s Guide to Linear Regression in Google Colab with cuML
 Break down of simple & multiple linear regression and how to easily implement both in Python with RAPIDS AI’s cuML ([Friend link](https://medium.com/future-vision/beginners-guide-to-linear-regression-in-python-with-cuml-30e2709c761?source=friends_link&sk=1da35920b9e2ffea59d5cb3c998bfeae))
 
+#### Data Driven Lending in the Age of AI
+Why and how Oracle is digitizing the home loan process ([Friend link](https://medium.com/future-vision/data-driven-lending-in-the-age-of-ai-60c3ad39b500?source=friends_link&sk=e95b565cf34e8635de1d08c38fde63e3))
+
 #### What is BlazingSQL?
 Nearing 100x faster than Apache Spark, BlazingSQL is backed by Samsung and NVIDIA — but what is it? (+ the GPU DataFrame) ([Friend link](https://medium.com/future-vision/what-is-blazingsql-33022a677dee?source=friends_link&sk=48619d5ee63ad82e0a22d244d4bcf43a))
 
