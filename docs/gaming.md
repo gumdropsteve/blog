@@ -1,5 +1,23 @@
 ## Gaming
 
+## 2023
+#### Shopify for the Metaverse
+WeMeta brings 3D analytics to Space Metaverse ([Link](https://medium.com/wemeta/shopify-for-the-metaverse-6918a08c4802))
+
+## 2022
+#### The Metaverse or Metaverses? Why We Need Interoperability
+WeMeta CEO Winston Robson, Improbable's VP of Comms & PR Herman Narula and Andreessen Horowitz's Head of Protocol Design and Engineering Eddy Lazzarin join Axelar CEO and founder Sergey Gorbunov at Consensus 2022 to discuss what interoperability is and why it is needed in the metaverse space. ([Link](https://www.coindesk.com/video/the-metaverse-or-metaverses-why-we-need-interoperability/))
+
+#### WeMeta Launches The World’s First Metaverse Analytics Engine
+Introducing WeMeta 1.0 ([Link](https://medium.com/wemeta/wemeta-launches-the-first-metaverse-analytics-engine-1979a674dafa?source=friends_link&sk=a0965290ce04f66bb03edede4845db63))
+
+## 2021
+
+#### WeMeta announces $1.1m funding round to help users buy, sell & build in the Metaverse
+([Friend link](https://medium.com/wemeta/wemeta-announces-1-1m-funding-round-to-help-users-buy-sell-build-in-the-metaverse-f0103b12281?source=friends_link&sk=5bf47080530794761b27d5c081dea7dc))
+
+## 2020
+
 #### Modern Warfare: Season 3
 Warzone Quads, new weapons, multiplayer maps and more ([Friend link](https://medium.com/future-vision/modern-warfare-season-3-f4685e4a043?source=friends_link&sk=b135e9e7b66a1aa0475d36e03d6e4ec8))
 
@@ -8,6 +26,8 @@ Free-to-play, cross-platform, 150 players, epic? ([Friend link](https://medium.c
 
 #### Modern Warfare: Season 2
 Call of Duty: Modern Warfare’s 2nd season brings back MW2 fan favorites with new & exciting ways for players to compete ([Friend link](https://medium.com/future-vision/season-2-d83221ffacce?source=friends_link&sk=eece57889b228ae97d1a46f2a51706ac))
+
+## 2019
 
 #### Modern Warfare: Season 1
 They literally copied Fortnite, just more expensive. But hey, Season One is live! ([Friend link](https://medium.com/future-vision/season-one-call-of-duty-3c4ae1106892?source=friends_link&sk=0f05fac454551a58d510079f2350ba65))
