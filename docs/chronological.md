@@ -2,6 +2,9 @@
 
 ## 2023
 
+#### Parallel Smart Contracts for Speed
+Threading in Solidity to Optimize Execution _Some <ins>incomplete</ins> thoughts on parallel execution_ ([Link](https://warobson.medium.com/parallel-smart-contracts-for-speed-461e75c7253a))
+
 #### Most Popular DEX?
 Comparing Crosschain Decentralized Exchanges GMX, Sushi, Osmosis and their Ability to Convert Web Visitors ([Link](https://warobson.medium.com/most-popular-dex-8696f3651753?sk=93b375aa7cdf9399ed0790ee06943776))
 
