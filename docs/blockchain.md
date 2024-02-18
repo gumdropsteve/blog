@@ -1,5 +1,10 @@
 ## Blockchain
 
+## 2024
+
+#### Parallel Smart Contracts for Speed
+Threading in Solidity to Optimize Execution _Some <ins>incomplete</ins> thoughts on parallel execution_ ([Link](https://warobson.medium.com/parallel-smart-contracts-for-speed-461e75c7253a))
+
 ## 2023 
 
 #### Most Popular DEX?
