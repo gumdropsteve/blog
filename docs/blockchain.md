@@ -52,3 +52,8 @@ Connecting to NEAR Indexer for Explorer with psycopg2 ([Friend link](https://med
 
 #### Introducing SmartRPA
 Neighbor to Neighbor Real Estate Transactions ([Friend link](https://medium.com/regarding-real-estate/introducing-smartrpa-5e0c24c69795?source=friends_link&sk=ec6d57fb1b5f248e498fb67f1db8812c))
+
+## 2019
+
+#### Facebook Unveils Calibra
+“A New Digital Wallet for a New Digital Currency” ([Link](https://medium.com/future-vision/facebook-unveils-calibra-ec6115bdb1b3?sk=eff248e08ce904ec76a143f238fa6d53))
