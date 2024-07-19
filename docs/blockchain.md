@@ -2,6 +2,9 @@
 
 ## 2024
 
+#### What is a ZK Coprocessor?
+Unlocking Trustless Systems with Zero Knowledge ([Link](https://medium.com/dropout-analytics/what-is-a-zk-coprocessor-62b2053a7203?sk=6c7146474d5f442f36ea53553f64ab24))
+
 #### Parallel Smart Contracts for Speed
 Threading in Solidity to Optimize Execution _Some <ins>incomplete</ins> thoughts on parallel execution_ ([Link](https://warobson.medium.com/parallel-smart-contracts-for-speed-461e75c7253a))
 
