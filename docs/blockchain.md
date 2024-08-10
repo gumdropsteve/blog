@@ -2,6 +2,12 @@
 
 ## 2024
 
+#### The Definitive Guide to ZK
+Mapping the Zero Knowledge Landscape ([Link](https://medium.com/dropout-analytics/the-definitive-guide-to-zk-1b91572233ca?sk=abdaa16aa5e1894ae9423a910b7c4d1f))
+
+#### What is a ZK Coprocessor?
+Unlocking Trustless Systems with Zero Knowledge ([Link](https://medium.com/dropout-analytics/what-is-a-zk-coprocessor-62b2053a7203?sk=6c7146474d5f442f36ea53553f64ab24))
+
 #### Parallel Smart Contracts for Speed
 Threading in Solidity to Optimize Execution _Some <ins>incomplete</ins> thoughts on parallel execution_ ([Link](https://warobson.medium.com/parallel-smart-contracts-for-speed-461e75c7253a))
 
@@ -52,3 +58,8 @@ Connecting to NEAR Indexer for Explorer with psycopg2 ([Friend link](https://med
 
 #### Introducing SmartRPA
 Neighbor to Neighbor Real Estate Transactions ([Friend link](https://medium.com/regarding-real-estate/introducing-smartrpa-5e0c24c69795?source=friends_link&sk=ec6d57fb1b5f248e498fb67f1db8812c))
+
+## 2019
+
+#### Facebook Unveils Calibra
+“A New Digital Wallet for a New Digital Currency” ([Link](https://medium.com/future-vision/facebook-unveils-calibra-ec6115bdb1b3?sk=eff248e08ce904ec76a143f238fa6d53))
