@@ -1,7 +1,7 @@
 ## Chronological
 
 #### The Definitive Guide to ZK
-Mapping the Zero Knowledge Landscape ([Link](https://medium.com/dropout-analytics/the-definitive-guide-to-zk-1b91572233ca?sk=abdaa16aa5e1894ae9423a910b7c4d1f))
+Mapping the Zero Knowledge Landscape ([Link](https://medium.com/dropout-analytics/the-definitive-guide-to-zk-1b91572233ca?sk=abdaa16aa5e1894ae9423a910b7c4d1f) | [Thread](https://x.com/gumdropsteve/status/1815402319166464264))
 
 #### What is a ZK Coprocessor?
 Unlocking Trustless Systems with Zero Knowledge ([Link](https://medium.com/dropout-analytics/what-is-a-zk-coprocessor-62b2053a7203?sk=6c7146474d5f442f36ea53553f64ab24))
@@ -11,6 +11,8 @@ Some Web3 startups hand out free tokens to stoke excitement and draw new users. 
 
 #### Parallel Smart Contracts for Speed
 Threading in Solidity to Optimize Execution _Some <ins>incomplete</ins> thoughts on parallel execution_ ([Link](https://warobson.medium.com/parallel-smart-contracts-for-speed-461e75c7253a))
+
+## 2023
 
 #### Most Popular DEX?
 Comparing Crosschain Decentralized Exchanges GMX, Sushi, Osmosis and their Ability to Convert Web Visitors ([Link](https://warobson.medium.com/most-popular-dex-8696f3651753?sk=93b375aa7cdf9399ed0790ee06943776))
@@ -35,6 +37,8 @@ WeMeta brings 3D analytics to Space Metaverse ([Link](https://medium.com/wemeta/
 
 #### Unlocking Metaverse Liquidity
 Introducing Pool Party NFT ([Link](https://medium.com/dropout-analytics/unlocking-metaverse-liquidity-4f6768b31290?sk=47ba7126e325a96b7b855b65492ede2c))
+
+## 2022
 
 #### 'Does Radio Ring a Bell?': How the Metaverse Will Change Society
 The metaverse is the latest technological evolution to be scoffed at – but it will change everything. This article is part of "Metaverse Week." ([Link](https://www.coindesk.com/layer2/2022/05/25/does-radio-ring-a-bell-how-the-metaverse-will-change-society/))
@@ -62,6 +66,8 @@ Connecting to NEAR Indexer for Explorer with psycopg2 ([Friend link](https://med
 
 #### Introducing SmartRPA
 Neighbor to Neighbor Real Estate Transactions ([Friend link](https://medium.com/regarding-real-estate/introducing-smartrpa-5e0c24c69795?source=friends_link&sk=ec6d57fb1b5f248e498fb67f1db8812c))
+
+## 2020
 
 #### Prophet any Stock in Seconds
 Free on Google Colab ([Friend link](https://medium.com/dropout-analytics/prophet-any-stock-in-seconds-5f9479977aea?source=friends_link&sk=9617b7531d148d602b891a81f86e355b))
@@ -131,6 +137,8 @@ Reduce overhead & further improve your GPU accelerated data science ([Friend lin
 
 #### How to add a Hangout video call in Google Calendar
 Add a Google Hangout meeting link to your meeting / event ([Friend link](https://medium.com/dropout-analytics/how-to-add-a-hangout-video-call-in-google-calendar-a5c1ac630d17?source=friends_link&sk=0f1d1d68700e0ed9fef5c4db1d87562e))
+
+## 2019
 
 #### Modern Warfare: Season 1
 They literally copied Fortnite, just more expensive. But hey, Season One is live! ([Friend link](https://medium.com/future-vision/season-one-call-of-duty-3c4ae1106892?source=friends_link&sk=0f05fac454551a58d510079f2350ba65))
@@ -236,6 +244,8 @@ Hydro Busts, micro-transactions out the wazoo & Zombies gets screwed (again) —
 
 #### Set up Selenium & GeckoDriver (Mac)
 3-step how to install & start using Selenium WebDriver Python bindings w/ example ([Friend link](https://medium.com/dropout-analytics/selenium-and-geckodriver-on-mac-b411dbfe61bc?source=friends_link&sk=18e2c2f07fbe1f8ae53fef5ad57dbb12))
+
+## 2017
 
 #### Offsite, the Vanguard of Construction
 The modular past, prefabricated present, and Promethean future of development ([LinkedIn](https://www.linkedin.com/pulse/what-offsite-why-do-you-care-winston-robson) | [Full version](sterlingbros.co.uk/offsite))
