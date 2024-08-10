@@ -8,6 +8,9 @@ Mapping the Zero Knowledge Landscape ([Link](https://medium.com/dropout-analytic
 #### What is a ZK Coprocessor?
 Unlocking Trustless Systems with Zero Knowledge ([Link](https://medium.com/dropout-analytics/what-is-a-zk-coprocessor-62b2053a7203?sk=6c7146474d5f442f36ea53553f64ab24))
 
+#### What is a Crypto Airdrop?
+Some Web3 startups hand out free tokens to stoke excitement and draw new users. ([Link](https://builtin.com/blockchain/crypto-airdrop))
+
 #### Parallel Smart Contracts for Speed
 Threading in Solidity to Optimize Execution _Some <ins>incomplete</ins> thoughts on parallel execution_ ([Link](https://warobson.medium.com/parallel-smart-contracts-for-speed-461e75c7253a))
 
@@ -21,6 +24,9 @@ And Ethereum Staking Narratives ([Link](https://medium.com/dropout-analytics/wha
 
 #### MetaPoly and WeMeta Join Forces in Joint Venture
 Data Driven Lending for Web3 ([Link](https://medium.com/wemeta/metapoly-and-wemeta-join-forces-in-a-strategic-partnership-dda4813ed8e1))
+
+#### What is a Crypto Whale?
+A deep dive on crypto whales, the biggest wallets in the crypto sea. ([Link](https://builtin.com/articles/crypto-whale))
 
 #### WeMeta Acquires MetaMetriks
 WeMeta Acquires Dashboard Company MetaMetriks to Expand Offerings ([Link](https://medium.com/wemeta/wemeta-acquires-metametriks-7fcb518b4b58))
