@@ -1,5 +1,8 @@
 ## Chronological
 
+#### What is a Home Equity Line of Credit?
+A Path to Financial Flexibility: Understanding a HELOC ([Link](https://medium.com/regarding-real-estate/what-is-a-home-equity-line-of-credit-cd0df1110456?sk=21f4e2a8c9dd1b6e8fcb3493732c974d))
+
 #### The Definitive Guide to ZK
 Mapping the Zero Knowledge Landscape ([Link](https://medium.com/dropout-analytics/the-definitive-guide-to-zk-1b91572233ca?sk=abdaa16aa5e1894ae9423a910b7c4d1f) | [Thread](https://x.com/gumdropsteve/status/1815402319166464264))
 
