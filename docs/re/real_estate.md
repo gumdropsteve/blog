@@ -1,5 +1,11 @@
+## Real Estate
+
+## 2021
+
 #### Introducing SmartRPA
 Neighbor to Neighbor Real Estate Transactions ([Link](https://medium.com/regarding-real-estate/introducing-smartrpa-5e0c24c69795?source=friends_link&sk=ec6d57fb1b5f248e498fb67f1db8812c))
+
+## 2019
 
 #### Top 12 Most Affordable Metros for Newlyweds
 Plus the 2 least affordable! ([Link](https://medium.com/regarding-real-estate/top-12-most-affordable-metros-for-newlyweds-685b993c9ce2?source=friends_link&sk=10896be0ce1cfb5cec5af0bb1e9ae2a7))
@@ -28,5 +34,6 @@ Top 10 Places You can call Home for $1,000 per Month ([Link](https://medium.com/
 #### “That’s Who We R” Gets Nod of Approval through 2022
 NAR renews commitment to advert aimed at distinguishing REALTORS® from other real estate agents ([Link](https://medium.com/regarding-real-estate/thats-who-we-r-gets-nod-of-approval-through-2022-b4cc67f99769?source=friends_link&sk=0c21daf58a8484bb3118e3c0fa45e7d3))
 
+## 2017
 #### Offsite, the Vanguard of Construction
 The modular past, prefabricated present, and Promethean future of development ([LinkedIn](https://www.linkedin.com/pulse/what-offsite-why-do-you-care-winston-robson) | [Full version](sterlingbros.co.uk/offsite))
