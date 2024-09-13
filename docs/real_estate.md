@@ -1,8 +1,20 @@
+## Real Estate
+
+Subsections
+- [Real Estate](re/real_estate)
+- [Lending](re/lending)
+
+## 2024
+
 #### What is a Home Equity Line of Credit?
 A Path to Financial Flexibility: Understanding a HELOC ([Link](https://medium.com/regarding-real-estate/what-is-a-home-equity-line-of-credit-cd0df1110456?sk=21f4e2a8c9dd1b6e8fcb3493732c974d))
 
+## 2021
+
 #### Introducing SmartRPA
 Neighbor to Neighbor Real Estate Transactions ([Link](https://medium.com/regarding-real-estate/introducing-smartrpa-5e0c24c69795?source=friends_link&sk=ec6d57fb1b5f248e498fb67f1db8812c))
+
+## 2019
 
 #### New Uniform Residential Loan Application Delayed
 Fannie Mae, Freddie Mac delay implementation of first changes to mortgage application in past 20 years ([Link](https://medium.com/regarding-real-estate/new-uniform-residential-loan-application-delayed-186e68c6dc3a?source=friends_link&sk=a5ff0d2a1c271608156ae5a64915ee08))
@@ -36,6 +48,8 @@ Top 10 Places You can call Home for $1,000 per Month ([Link](https://medium.com/
 
 #### “That’s Who We R” Gets Nod of Approval through 2022
 NAR renews commitment to advert aimed at distinguishing REALTORS® from other real estate agents ([Link](https://medium.com/regarding-real-estate/thats-who-we-r-gets-nod-of-approval-through-2022-b4cc67f99769?source=friends_link&sk=0c21daf58a8484bb3118e3c0fa45e7d3))
+
+## 2017
 
 #### Offsite, the Vanguard of Construction
 The modular past, prefabricated present, and Promethean future of development ([LinkedIn](https://www.linkedin.com/pulse/what-offsite-why-do-you-care-winston-robson) | [Full version](sterlingbros.co.uk/offsite))
