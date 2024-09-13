@@ -9,6 +9,9 @@ Subsections
 #### What is a Home Equity Line of Credit?
 A Path to Financial Flexibility: Understanding a HELOC ([Link](https://medium.com/regarding-real-estate/what-is-a-home-equity-line-of-credit-cd0df1110456?sk=21f4e2a8c9dd1b6e8fcb3493732c974d))
 
+#### Mortgage Rates move towards Three-Year Lows (2019)
+5 Year Compairson Twitter Thread ([Link](https://x.com/gumdropsteve/status/1814071668421324908))
+
 ## 2021
 
 #### Introducing SmartRPA
@@ -18,6 +21,9 @@ Neighbor to Neighbor Real Estate Transactions ([Link](https://medium.com/regardi
 
 #### New Uniform Residential Loan Application Delayed
 Fannie Mae, Freddie Mac delay implementation of first changes to mortgage application in past 20 years ([Link](https://medium.com/regarding-real-estate/new-uniform-residential-loan-application-delayed-186e68c6dc3a?source=friends_link&sk=a5ff0d2a1c271608156ae5a64915ee08))
+
+#### Mortgage Rates move towards Three-Year Lows
+Take your pick, they’re all down this week ([Link](https://medium.com/regarding-real-estate/mortgage-rates-move-towards-three-year-lows-ff704a6bf036) | [5 Year Compairson Tweet](https://x.com/gumdropsteve/status/1814071668421324908))
 
 #### Top 12 Most Affordable Metros for Newlyweds
 Plus the 2 least affordable! ([Link](https://medium.com/regarding-real-estate/top-12-most-affordable-metros-for-newlyweds-685b993c9ce2?source=friends_link&sk=10896be0ce1cfb5cec5af0bb1e9ae2a7))
