@@ -9,6 +9,9 @@ Subcategories
 #### What is a Home Equity Line of Credit?
 A Path to Financial Flexibility: Understanding a HELOC ([Link](https://medium.com/regarding-real-estate/what-is-a-home-equity-line-of-credit-cd0df1110456?sk=21f4e2a8c9dd1b6e8fcb3493732c974d))
 
+#### Mortgage Rates move towards Three-Year Lows (2019)
+5 Year Compairson Twitter Thread ([Link](https://x.com/gumdropsteve/status/1814071668421324908))
+
 ## 2021
 
 #### Introducing SmartRPA
@@ -21,6 +24,9 @@ Why and how Oracle is digitizing the home loan process ([Link](https://medium.co
 
 #### New Uniform Residential Loan Application Delayed
 Fannie Mae, Freddie Mac delay implementation of first changes to mortgage application in past 20 years ([Link](https://medium.com/regarding-real-estate/new-uniform-residential-loan-application-delayed-186e68c6dc3a?source=friends_link&sk=a5ff0d2a1c271608156ae5a64915ee08))
+
+#### Mortgage Rates move towards Three-Year Lows
+Take your pick, they’re all down this week ([Link](https://medium.com/regarding-real-estate/mortgage-rates-move-towards-three-year-lows-ff704a6bf036) | [5 Year Compairson Tweet](https://x.com/gumdropsteve/status/1814071668421324908))
 
 #### Top 12 Most Affordable Metros for Newlyweds
 Plus the 2 least affordable! ([Link](https://medium.com/regarding-real-estate/top-12-most-affordable-metros-for-newlyweds-685b993c9ce2?source=friends_link&sk=10896be0ce1cfb5cec5af0bb1e9ae2a7))
@@ -51,6 +57,8 @@ Top 10 Places You can call Home for $1,000 per Month ([Link](https://medium.com/
 
 #### “That’s Who We R” Gets Nod of Approval through 2022
 NAR renews commitment to advert aimed at distinguishing REALTORS® from other real estate agents ([Link](https://medium.com/regarding-real-estate/thats-who-we-r-gets-nod-of-approval-through-2022-b4cc67f99769?source=friends_link&sk=0c21daf58a8484bb3118e3c0fa45e7d3))
+
+## 2017
 
 #### Offsite, the Vanguard of Construction
 The modular past, prefabricated present, and Promethean future of development ([LinkedIn](https://www.linkedin.com/pulse/what-offsite-why-do-you-care-winston-robson) | [Full version](sterlingbros.co.uk/offsite))
