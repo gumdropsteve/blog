@@ -26,6 +26,10 @@ All stories can be found in [chronological order here](docs/chronological).
 [Programming](docs/programming)
 - [Selenium WebDriver](docs/pr/selenium)
 
+[Real Estate](docs/real_estate)
+- [Real Estate](docs/re/real_estate)
+- [Lending](docs/re/lending)
+
 -----
 > [More...](docs/more) 
 > 
