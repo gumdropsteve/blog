@@ -1,32 +1,11 @@
 ## Real Estate
 
-Subcategories
-- [Lending](re/lending)
-- [Real Estate](re/real_estate)
-
-## 2024
-
-#### What is a Home Equity Line of Credit?
-A Path to Financial Flexibility: Understanding a HELOC ([Link](https://medium.com/regarding-real-estate/what-is-a-home-equity-line-of-credit-cd0df1110456?sk=21f4e2a8c9dd1b6e8fcb3493732c974d))
-
-#### Mortgage Rates move towards Three-Year Lows (2019)
-5 Year Compairson Twitter Thread ([Link](https://x.com/gumdropsteve/status/1814071668421324908))
-
 ## 2021
 
 #### Introducing SmartRPA
 Neighbor to Neighbor Real Estate Transactions ([Link](https://medium.com/regarding-real-estate/introducing-smartrpa-5e0c24c69795?source=friends_link&sk=ec6d57fb1b5f248e498fb67f1db8812c))
 
 ## 2019
-
-#### Data Driven Lending in the Age of AI
-Why and how Oracle is digitizing the home loan process ([Link](https://medium.com/future-vision/data-driven-lending-in-the-age-of-ai-60c3ad39b500?source=friends_link&sk=e95b565cf34e8635de1d08c38fde63e3))
-
-#### New Uniform Residential Loan Application Delayed
-Fannie Mae, Freddie Mac delay implementation of first changes to mortgage application in past 20 years ([Link](https://medium.com/regarding-real-estate/new-uniform-residential-loan-application-delayed-186e68c6dc3a?source=friends_link&sk=a5ff0d2a1c271608156ae5a64915ee08))
-
-#### Mortgage Rates move towards Three-Year Lows
-Take your pick, they’re all down this week ([Link](https://medium.com/regarding-real-estate/mortgage-rates-move-towards-three-year-lows-ff704a6bf036) | [5 Year Compairson Tweet](https://x.com/gumdropsteve/status/1814071668421324908))
 
 #### Top 12 Most Affordable Metros for Newlyweds
 Plus the 2 least affordable! ([Link](https://medium.com/regarding-real-estate/top-12-most-affordable-metros-for-newlyweds-685b993c9ce2?source=friends_link&sk=10896be0ce1cfb5cec5af0bb1e9ae2a7))
@@ -43,9 +22,6 @@ Looking for a new home? Here’s how long it may take. ([Link](https://medium.co
 #### Renters’ 10 Most-Requested Amenities
 Hardwood flooring. And? ([Link](https://medium.com/regarding-real-estate/renters-10-most-requested-amenities-bf5c3134790?source=friends_link&sk=6885fd9bf2208c462f62b13bd6497a1c))
 
-#### Mortgage Rates Drop for Fourth Straight Week
-30-year fixed avg rate down 0.01% on week, down 0.50% on year ([Link](https://medium.com/regarding-real-estate/mortgage-rates-drop-for-fourth-straight-week-5cc053084f35?source=friends_link&sk=d1bee3ede6c8672b8b2f9c101be029d4))
-
 #### Couple Fined $600,000 for Trying (and failing) to Move 180-year-old Tree
 The oak tree was protected under a conservation easement. ([Link](https://medium.com/regarding-real-estate/fined-600-000-for-trying-and-failing-to-move-180-year-old-tree-8c7473b22042?source=friends_link&sk=cbe21629016e3476f7383cb1456eec37))
 
@@ -59,6 +35,5 @@ Top 10 Places You can call Home for $1,000 per Month ([Link](https://medium.com/
 NAR renews commitment to advert aimed at distinguishing REALTORS® from other real estate agents ([Link](https://medium.com/regarding-real-estate/thats-who-we-r-gets-nod-of-approval-through-2022-b4cc67f99769?source=friends_link&sk=0c21daf58a8484bb3118e3c0fa45e7d3))
 
 ## 2017
-
 #### Offsite, the Vanguard of Construction
 The modular past, prefabricated present, and Promethean future of development ([LinkedIn](https://www.linkedin.com/pulse/what-offsite-why-do-you-care-winston-robson) | [Full version](sterlingbros.co.uk/offsite))
