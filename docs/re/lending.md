@@ -4,9 +4,16 @@
 #### What is a Home Equity Line of Credit?
 A Path to Financial Flexibility: Understanding a HELOC ([Link](https://medium.com/regarding-real-estate/what-is-a-home-equity-line-of-credit-cd0df1110456?sk=21f4e2a8c9dd1b6e8fcb3493732c974d))
 
+#### Mortgage Rates move towards Three-Year Lows (2019)
+5 Year Compairson Twitter Thread ([Link](https://x.com/gumdropsteve/status/1814071668421324908))
+
 ## 2019
+
 #### New Uniform Residential Loan Application Delayed
 Fannie Mae, Freddie Mac delay implementation of first changes to mortgage application in past 20 years ([Link](https://medium.com/regarding-real-estate/new-uniform-residential-loan-application-delayed-186e68c6dc3a?source=friends_link&sk=a5ff0d2a1c271608156ae5a64915ee08))
+
+#### Mortgage Rates move towards Three-Year Lows
+Take your pick, they’re all down this week ([Link](https://medium.com/regarding-real-estate/mortgage-rates-move-towards-three-year-lows-ff704a6bf036) | [5 Year Compairson Tweet](https://x.com/gumdropsteve/status/1814071668421324908))
 
 #### Mortgage Rates Drop for Fourth Straight Week
 30-year fixed avg rate down 0.01% on week, down 0.50% on year ([Link](https://medium.com/regarding-real-estate/mortgage-rates-drop-for-fourth-straight-week-5cc053084f35?source=friends_link&sk=d1bee3ede6c8672b8b2f9c101be029d4))
