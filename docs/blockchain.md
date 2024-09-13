@@ -3,6 +3,7 @@
 Subsections
 - [NEAR](blockchain/near)
 - [WeMeta](blockchain/wemeta)
+- [Zero Knowledge](blockchain/zero_knowledge)
 
 ## 2024
 
