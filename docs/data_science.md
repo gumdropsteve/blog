@@ -1,5 +1,12 @@
 ## Data Science
 
+Subsections
+- [Dask](ds/dask)
+- [Prophet](ds/prophet)
+- [RAPIDS](ds/rapids)
+  - [BlazingSQL](ds/rapids_ai/blazingsql)
+  - [cuML](ds/rapids_ai/cuml)
+
 ## 2023
 
 #### Most Popular DEX?

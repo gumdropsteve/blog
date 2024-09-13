@@ -13,6 +13,7 @@ All stories can be found in [chronological order here](docs/chronological).
 [Blockchain](docs/blockchain)
 - [NEAR](docs/blockchain/near)
 - [WeMeta](docs/blockchain/wemeta)
+- [Zero Knowledge](docs/blockchain/zero_knowledge)
 
 [Data Science](docs/data_science)
 - [Dask](docs/ds/dask)
