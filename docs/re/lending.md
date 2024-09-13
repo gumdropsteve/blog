@@ -9,6 +9,9 @@ A Path to Financial Flexibility: Understanding a HELOC ([Link](https://medium.co
 
 ## 2019
 
+#### Data Driven Lending in the Age of AI
+Why and how Oracle is digitizing the home loan process ([Link](https://medium.com/future-vision/data-driven-lending-in-the-age-of-ai-60c3ad39b500?source=friends_link&sk=e95b565cf34e8635de1d08c38fde63e3))
+
 #### New Uniform Residential Loan Application Delayed
 Fannie Mae, Freddie Mac delay implementation of first changes to mortgage application in past 20 years ([Link](https://medium.com/regarding-real-estate/new-uniform-residential-loan-application-delayed-186e68c6dc3a?source=friends_link&sk=a5ff0d2a1c271608156ae5a64915ee08))
 
