@@ -14,6 +14,12 @@ A Path to Financial Flexibility: Understanding a HELOC ([Link](https://medium.co
 
 ## 2021
 
+#### WeMeta announces $1.1m funding round to help users buy, sell & build in the Metaverse
+([Link](https://medium.com/wemeta/wemeta-announces-1-1m-funding-round-to-help-users-buy-sell-build-in-the-metaverse-f0103b12281?source=friends_link&sk=5bf47080530794761b27d5c081dea7dc))
+
+#### Zillow for the Metaverse
+Reintroducing the WeMeta NFT Land Aggregator ([Link](https://medium.com/wemeta/zillow-for-the-metaverse-60136b88ae97?source=friends_link&sk=dc18a2dcd2237d1fc1c71725b05acd6d))
+
 #### Introducing SmartRPA
 Neighbor to Neighbor Real Estate Transactions ([Link](https://medium.com/regarding-real-estate/introducing-smartrpa-5e0c24c69795?source=friends_link&sk=ec6d57fb1b5f248e498fb67f1db8812c))
 
