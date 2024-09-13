@@ -1,5 +1,9 @@
 ## Blockchain
 
+Subsections
+- [NEAR](blockchain/near)
+- [WeMeta](blockchain/wemeta)
+
 ## 2024
 
 #### The Definitive Guide to ZK
