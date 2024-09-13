@@ -1,6 +1,6 @@
 ## Programming
 
-Subsections
+Subcategories
 - [Selenium](pr/selenium)
 
 ## 2022
