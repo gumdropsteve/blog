@@ -1,5 +1,9 @@
 ### RAPIDS AI
 
+Subcategories
+- [blazingSQL](rapids_ai/blazingsql)
+- [cuML](rapids_ai/cuML)
+
 #### Beginner's Guide to Logistic Regression with cuML
 What is Logistic Regression? And how to implement it in Python with RAPIDS cuML ([Friend link](https://medium.com/dropout-analytics/beginners-guide-to-logistic-regression-with-cuml-5061086d8694?source=friends_link&sk=2d8d0f7ddd43ccaaf264afcbadeea231))
 
