@@ -1,6 +1,6 @@
 ## Data Science
 
-Subsections
+Subcategories
 - [Dask](ds/dask)
 - [Prophet](ds/prophet)
 - [RAPIDS](ds/rapids)
