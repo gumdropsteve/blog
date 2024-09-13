@@ -1,8 +1,23 @@
+## Real Estate
+
+Subcategories
+- [Lending](re/lending)
+- [Real Estate](re/real_estate)
+
+## 2024
+
 #### What is a Home Equity Line of Credit?
 A Path to Financial Flexibility: Understanding a HELOC ([Link](https://medium.com/regarding-real-estate/what-is-a-home-equity-line-of-credit-cd0df1110456?sk=21f4e2a8c9dd1b6e8fcb3493732c974d))
 
+## 2021
+
 #### Introducing SmartRPA
 Neighbor to Neighbor Real Estate Transactions ([Link](https://medium.com/regarding-real-estate/introducing-smartrpa-5e0c24c69795?source=friends_link&sk=ec6d57fb1b5f248e498fb67f1db8812c))
+
+## 2019
+
+#### Data Driven Lending in the Age of AI
+Why and how Oracle is digitizing the home loan process ([Link](https://medium.com/future-vision/data-driven-lending-in-the-age-of-ai-60c3ad39b500?source=friends_link&sk=e95b565cf34e8635de1d08c38fde63e3))
 
 #### New Uniform Residential Loan Application Delayed
 Fannie Mae, Freddie Mac delay implementation of first changes to mortgage application in past 20 years ([Link](https://medium.com/regarding-real-estate/new-uniform-residential-loan-application-delayed-186e68c6dc3a?source=friends_link&sk=a5ff0d2a1c271608156ae5a64915ee08))
