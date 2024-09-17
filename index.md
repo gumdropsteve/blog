@@ -1,12 +1,14 @@
 # blog
 
+### Featured
+- [What is a ZK Coprocessor?](https://medium.com/dropout-analytics/what-is-a-zk-coprocessor-62b2053a7203?sk=6c7146474d5f442f36ea53553f64ab24)
+- [The ZK Ecosystem Map](https://medium.com/dropout-analytics/the-definitive-guide-to-zk-1b91572233ca?sk=abdaa16aa5e1894ae9423a910b7c4d1f)
+
+### Chronological 
 All stories can be found in [chronological order here](docs/chronological).
 
-### Featured
-- [What are Liquid Staking Tokens?](https://medium.com/dropout-analytics/what-are-liquid-staking-tokens-a0568938f553?sk=a2e07a3fe984ddf277c4ff6ca4992bdd)
-- [What is RAG in Generative AI?](https://medium.com/dropout-analytics/what-is-rag-in-generative-ai-f5b8c13575f8?sk=c72a0cf47a1bf91fab094d1c2181bb54)
-- [The Metaverse or Metaverses? Why We Need Interoperability](https://www.coindesk.com/video/the-metaverse-or-metaverses-why-we-need-interoperability/)
-- [The ZK Ecosystem Map](https://medium.com/dropout-analytics/the-definitive-guide-to-zk-1b91572233ca?sk=abdaa16aa5e1894ae9423a910b7c4d1f)
+#### Most Recent
+- [What is a HELOC Credit Card?](https://medium.com/regarding-real-estate/what-is-a-heloc-credit-card-6c850c3e5df3?sk=35cfed433a72d2199c9112fdd9fcb5b6)
 
 ### Categories
 
