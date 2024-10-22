@@ -6,3 +6,4 @@
 - [Ordinary Men: Reserve Police Battalion 101 and the Final Solution in Poland](https://www.amazon.com/gp/product/0060995068/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=jordanbpetery-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0060995068&linkId=07b0fc7f0ed7cc6e4ea86e0ec2e33bae) by Christopher R. Browning
 - [The Courage to Be Disliked](https://www.audible.com/pd/The-Courage-to-Be-Disliked-Audiobook/B07BRPQ8LW) by Ichiro Kishimi, Fumitake Koga
 - Centennial Lecture Series: Rob Wiedenmann - [The Phylogeny and Ontogeny of Ideas](https://youtu.be/cIdxpGGndIE?si=MuVuNlC92p5QIWFI)
+- [As A Man Thinketh](https://en.m.wikisource.org/wiki/As_a_Man_Thinketh) by James Allen
