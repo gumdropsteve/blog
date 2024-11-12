@@ -8,7 +8,7 @@ Subcategories
 ## 2024
 
 #### Introducing Stable
-Rethinking Real Estate Liquidity [Link](https://warobson.medium.com/introducing-stable-69537bd7ee99)
+Rethinking Real Estate Liquidity ([Link](https://warobson.medium.com/introducing-stable-69537bd7ee99))
 
 #### The Definitive Guide to ZK
 Mapping the Zero Knowledge Landscape ([Link](https://medium.com/dropout-analytics/the-definitive-guide-to-zk-1b91572233ca?sk=abdaa16aa5e1894ae9423a910b7c4d1f))
