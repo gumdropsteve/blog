@@ -8,7 +8,7 @@
 All stories can be found in [chronological order here](docs/chronological).
 
 #### Most Recent
-- [What is a HELOC Credit Card?](https://medium.com/regarding-real-estate/what-is-a-heloc-credit-card-6c850c3e5df3?sk=35cfed433a72d2199c9112fdd9fcb5b6)
+- [Introducing Stable](https://warobson.medium.com/introducing-stable-69537bd7ee99)
 
 ### Categories
 
