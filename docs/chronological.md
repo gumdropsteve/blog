@@ -1,7 +1,7 @@
 ## Chronological
 
-#### [Stable Awarded Starknet Grant](https://medium.com/stable-inc/stable-awarded-strk-grant-3591222f2524)
-The Starknet Foundation Awarded a Grant to Stable
+#### Stable Awarded Starknet Grant
+The Starknet Foundation Awarded a Grant to Stable ([Link](https://medium.com/stable-inc/stable-awarded-strk-grant-3591222f2524))
 
 ## 2024
 
