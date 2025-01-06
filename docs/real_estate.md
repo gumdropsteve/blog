@@ -4,6 +4,11 @@ Subcategories
 - [Lending](re/lending)
 - [Real Estate](re/real_estate)
 
+## 2025
+
+#### [Stable Awarded Starknet Grant](https://medium.com/stable-inc/stable-awarded-strk-grant-3591222f2524)
+The Starknet Foundation Awarded a Grant to Stable
+
 ## 2024
 
 #### Introducing Stable
