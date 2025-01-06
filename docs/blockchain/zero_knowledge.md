@@ -1,5 +1,8 @@
 ## Zero Knowledge
 
+#### [Stable Awarded Starknet Grant](https://medium.com/stable-inc/stable-awarded-strk-grant-3591222f2524)
+The Starknet Foundation Awarded a Grant to Stable
+
 #### The Definitive Guide to ZK
 Mapping the Zero Knowledge Landscape ([Link](https://medium.com/dropout-analytics/the-definitive-guide-to-zk-1b91572233ca?sk=abdaa16aa5e1894ae9423a910b7c4d1f) | [Tweet](https://x.com/gumdropsteve/status/1815402319166464264))
 
