@@ -1,5 +1,9 @@
 ## Real Estate
 
+## 2025
+#### Stable Awarded Starknet Grant
+The Starknet Foundation Awarded a Grant to Stable ([Link](https://medium.com/stable-inc/stable-awarded-strk-grant-3591222f2524))
+
 ## 2021
 
 #### WeMeta announces $1.1m funding round to help users buy, sell & build in the Metaverse

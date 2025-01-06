@@ -1,5 +1,10 @@
 ## Chronological
 
+#### Stable Awarded Starknet Grant
+The Starknet Foundation Awarded a Grant to Stable ([Link](https://medium.com/stable-inc/stable-awarded-strk-grant-3591222f2524))
+
+## 2024
+
 #### Introducing Stable
 Rethinking Real Estate Liquidity ([Link](https://warobson.medium.com/introducing-stable-69537bd7ee99))
 
