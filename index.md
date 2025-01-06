@@ -1,14 +1,13 @@
 # blog
 
 ## Featured
-- [What is a ZK Coprocessor?](https://medium.com/dropout-analytics/what-is-a-zk-coprocessor-62b2053a7203?sk=6c7146474d5f442f36ea53553f64ab24)
-- [The ZK Ecosystem Map](https://medium.com/dropout-analytics/the-definitive-guide-to-zk-1b91572233ca?sk=abdaa16aa5e1894ae9423a910b7c4d1f)
+[Stable Awarded STRK Grant](https://medium.com/stable-inc/stable-awarded-strk-grant-3591222f2524)
 
 #### Chronological 
 All stories can be found in [chronological order here](docs/chronological).
 
 #### Most Recent
-[Introducing Stable](https://warobson.medium.com/introducing-stable-69537bd7ee99)
+[Introducing Stable](https://medium.com/regarding-real-estate/introducing-stable-69537bd7ee99)
 
 ## Categories
 
