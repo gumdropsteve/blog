@@ -3,6 +3,7 @@
 Subcategories
 - [Lending](re/lending)
 - [Real Estate](re/real_estate)
+- [Stable](blockchain/stable)
 
 ## 2025
 
