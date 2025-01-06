@@ -2,6 +2,7 @@
 
 Subcategories
 - [NEAR](blockchain/near)
+- [Stable](blockchain/stable)
 - [WeMeta](blockchain/wemeta)
 - [Zero Knowledge](blockchain/zero_knowledge)
 
