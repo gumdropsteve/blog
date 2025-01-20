@@ -1,4 +1,4 @@
-# blog
+# not winston robson's blog
 
 ## Featured
 [Stable Awarded STRK Grant](https://medium.com/stable-inc/stable-awarded-strk-grant-3591222f2524)
