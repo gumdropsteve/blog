@@ -7,3 +7,4 @@
 - [The Courage to Be Disliked](https://www.audible.com/pd/The-Courage-to-Be-Disliked-Audiobook/B07BRPQ8LW) by Ichiro Kishimi, Fumitake Koga
 - Centennial Lecture Series: Rob Wiedenmann - [The Phylogeny and Ontogeny of Ideas](https://youtu.be/cIdxpGGndIE?si=MuVuNlC92p5QIWFI)
 - [As A Man Thinketh](https://en.m.wikisource.org/wiki/As_a_Man_Thinketh) by James Allen
+- [852 Hz Pure Tone - 10 Hours - Black Screen](https://www.youtube.com/watch?v=7wAb8_STOs4)
