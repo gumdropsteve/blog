@@ -1,5 +1,8 @@
 ## Chronological
 
+#### How to Switch to Solana Devnet in Phantom Wallet
+Simple Step by Step Guide for Developers ([Link](https://medium.com/future-vision/how-to-switch-to-solana-devnet-in-phantom-wallet-c1515625d78e))
+
 #### Stable Awarded Starknet Grant
 The Starknet Foundation Awarded a Grant to Stable ([Link](https://medium.com/stable-inc/stable-awarded-strk-grant-3591222f2524))
 
