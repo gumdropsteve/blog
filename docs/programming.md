@@ -3,6 +3,11 @@
 Subcategories
 - [Selenium](pr/selenium)
 
+## 2025
+
+#### How to Switch to Solana Devnet in Phantom Wallet
+Simple Step by Step Guide for Developers ([Link](https://medium.com/future-vision/how-to-switch-to-solana-devnet-in-phantom-wallet-c1515625d78e))
+
 ## 2022
 
 #### Unlocking Metaverse Liquidity
