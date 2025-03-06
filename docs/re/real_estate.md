@@ -1,6 +1,10 @@
 ## Real Estate
 
 ## 2025
+
+#### Stable Achieves 1st Ever Home Yield in US
+Tokenized Real Estate Earns Yield for Colorado Homeowner ([Link](https://medium.com/stable-inc/stable-achieves-1st-ever-home-yield-in-us-787aaa2b8a3b))
+
 #### Stable Awarded Starknet Grant
 The Starknet Foundation Awarded a Grant to Stable ([Link](https://medium.com/stable-inc/stable-awarded-strk-grant-3591222f2524))
 
