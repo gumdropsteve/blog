@@ -1,7 +1,7 @@
 # blog
 
 ## Featured
-[Stable Awarded STRK Grant](https://medium.com/stable-inc/stable-awarded-strk-grant-3591222f2524)
+[Stable Achieves 1st Ever Home Yield in US](https://medium.com/stable-inc/stable-achieves-1st-ever-home-yield-in-us-787aaa2b8a3b)
 
 #### Chronological 
 All stories can be found in [chronological order here](docs/chronological).
