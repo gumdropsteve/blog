@@ -8,3 +8,4 @@
 - Centennial Lecture Series: Rob Wiedenmann - [The Phylogeny and Ontogeny of Ideas](https://youtu.be/cIdxpGGndIE?si=MuVuNlC92p5QIWFI)
 - [As A Man Thinketh](https://en.m.wikisource.org/wiki/As_a_Man_Thinketh) by James Allen
 - [852 Hz Pure Tone - 10 Hours - Black Screen](https://www.youtube.com/watch?v=7wAb8_STOs4)
+- [Ten Crack Commandments](https://genius.com/The-notorious-big-ten-crack-commandments-lyrics) by The Notorious B.I.G.
