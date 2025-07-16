@@ -10,4 +10,6 @@ Thanks for checkout out my work.
 [Twitter](https://twitter.com/gumdropsteve)
 
 #### **Let's be friends**
-[Robinhood - get a free stock!](https://join.robinhood.com/winstor2)
+[Robinhood Referral Code](https://join.robinhood.com/winstor2) - get a free stock!
+
+[Turtle Club Referral Code](https://app.turtle.club/deals?ref=CHELONIA)
