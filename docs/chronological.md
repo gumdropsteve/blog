@@ -2,6 +2,9 @@
 
 ## 2025
 
+#### On the subject of stablecoin legislation
+([Link](https://warobson.medium.com/on-the-subject-of-stablecoin-legislation-4836661df34b))
+
 #### Stable Achieves 1st Ever Home Yield in US
 Tokenized Real Estate Earns Yield for Colorado Homeowner ([Link](https://medium.com/stable-inc/stable-achieves-1st-ever-home-yield-in-us-787aaa2b8a3b))
 
