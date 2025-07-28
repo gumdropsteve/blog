@@ -1,13 +1,13 @@
 # blog
 
 ## Featured
-[Stable Achieves 1st Ever Home Yield in US](https://medium.com/stable-inc/stable-achieves-1st-ever-home-yield-in-us-787aaa2b8a3b)
+[USDX Whitepaper](https://github.com/Stable-Finance/whitepaper)
 
 #### Chronological 
 All stories can be found in [chronological order here](docs/chronological).
 
 #### Most Recent
-[Introducing Stable](https://medium.com/regarding-real-estate/introducing-stable-69537bd7ee99)
+[Stable Achieves 1st Ever Home Yield in US](https://medium.com/stable-inc/stable-achieves-1st-ever-home-yield-in-us-787aaa2b8a3b)
 
 ## Categories
 
