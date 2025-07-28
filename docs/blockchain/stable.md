@@ -1,5 +1,8 @@
 ## Stable
 
+#### USDX Whitepaper
+The Whitepaper for Stable's CDP stablecoin, USDX. ([Link](https://github.com/Stable-Finance/whitepaper))
+
 #### Stable Achieves 1st Ever Home Yield in US
 Tokenized Real Estate Earns Yield for Colorado Homeowner ([Link](https://medium.com/stable-inc/stable-achieves-1st-ever-home-yield-in-us-787aaa2b8a3b))
 
