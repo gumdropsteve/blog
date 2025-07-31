@@ -2,6 +2,9 @@
 
 ## 2025
 
+#### What Is a Joint Venture Equity Structure in Real Estate?
+How Big Deals Get Done ([Link](https://medium.com/regarding-real-estate/what-is-a-joint-venture-equity-structure-in-real-estate-a5128d8297fd))
+
 #### On the subject of stablecoin legislation
 ([Link](https://warobson.medium.com/on-the-subject-of-stablecoin-legislation-4836661df34b))
 
