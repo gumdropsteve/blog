@@ -2,6 +2,9 @@
 
 ## 2025
 
+#### What Is a Joint Venture Equity Structure in Real Estate? 
+How Big Deals Get Done ([Link](https://medium.com/regarding-real-estate/what-is-a-joint-venture-equity-structure-in-real-estate-a5128d8297fd))
+
 #### Stable Achieves 1st Ever Home Yield in US
 Tokenized Real Estate Earns Yield for Colorado Homeowner ([Link](https://medium.com/stable-inc/stable-achieves-1st-ever-home-yield-in-us-787aaa2b8a3b))
 
