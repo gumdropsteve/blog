@@ -2,6 +2,9 @@
 
 ## 2025
 
+#### Buying Broken Promises: Why Smart Money Is Chasing Distressed Mortgage Bonds
+What are Distressed Mortgage-Backed Securities (Distressed MBS)? ([Link](https://medium.com/regarding-real-estate/buying-broken-promises-why-smart-money-is-chasing-distressed-mortgage-bonds-e327fd9a96a2?sk=d2488430522bb89df275f96998f74e32))
+
 #### Mortgage Capital Markets: A Breakdown
 Outlining Mortgage Capital Markets in the United States ([Link](https://medium.com/stable-inc/mortgage-capital-markets-a-breakdown-fe5b945ba283?sk=9399ac2d64e85d8a1aecd6afd6f46334))
 
