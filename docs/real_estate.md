@@ -7,6 +7,9 @@ Subcategories
 
 ## 2025
 
+#### Mortgage Capital Markets: A Breakdown
+Outlining Mortgage Capital Markets in the United States ([Link](https://medium.com/stable-inc/mortgage-capital-markets-a-breakdown-fe5b945ba283?sk=9399ac2d64e85d8a1aecd6afd6f46334))
+
 #### What Is a Joint Venture Equity Structure in Real Estate? 
 How Big Deals Get Done ([Link](https://medium.com/regarding-real-estate/what-is-a-joint-venture-equity-structure-in-real-estate-a5128d8297fd))
 
