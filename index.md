@@ -1,13 +1,15 @@
 # blog
 
 ## Featured
-[USDX Whitepaper](https://github.com/Stable-Finance/whitepaper)
+#### USDX Whitepaper
+The Whitepaper for Stable's CDP stablecoin, USDX. ([Link](https://github.com/Stable-Finance/whitepaper))
 
-#### Chronological 
-All stories can be found in [chronological order here](docs/chronological).
+## Chronological 
+Stories can be found in chronological order [here at /chronological](docs/chronological).
 
-#### Most Recent
-[Stable Achieves 1st Ever Home Yield in US](https://medium.com/stable-inc/stable-achieves-1st-ever-home-yield-in-us-787aaa2b8a3b)
+## Most Recent
+#### Stable Achieves 1st Ever Home Yield in US
+Tokenized Real Estate Earns Yield for Colorado Homeowner ([Link](https://medium.com/stable-inc/stable-achieves-1st-ever-home-yield-in-us-787aaa2b8a3b))
 
 ## Categories
 
