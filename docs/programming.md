@@ -5,6 +5,9 @@ Subcategories
 
 ## 2025
 
+#### Verifying OnChain NFT Metadata with Foundry
+How to Extract NFT Images with Foundry ([Link](https://warobson.medium.com/verifying-onchain-nft-metadata-with-foundry-3a9cbce2a879))
+
 #### How to Switch to Solana Devnet in Phantom Wallet
 Simple Step by Step Guide for Developers ([Link](https://medium.com/future-vision/how-to-switch-to-solana-devnet-in-phantom-wallet-c1515625d78e))
 
