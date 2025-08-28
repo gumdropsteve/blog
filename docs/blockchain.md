@@ -8,6 +8,9 @@ Subcategories
 
 ## 2025
 
+#### Verifying OnChain NFT Metadata with Foundry
+How to Extract NFT Images with Foundry ([Link](https://warobson.medium.com/verifying-onchain-nft-metadata-with-foundry-3a9cbce2a879))
+
 #### On the subject of stablecoin legislation
 ([Link](https://warobson.medium.com/on-the-subject-of-stablecoin-legislation-4836661df34b))
 
