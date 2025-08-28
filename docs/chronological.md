@@ -2,6 +2,9 @@
 
 ## 2025
 
+#### Verifying OnChain NFT Metadata with Foundry
+How to Extract NFT Images with Foundry ([Link](https://warobson.medium.com/verifying-onchain-nft-metadata-with-foundry-3a9cbce2a879))
+
 #### Buying Broken Promises: Why Smart Money Is Chasing Distressed Mortgage Bonds
 What are Distressed Mortgage-Backed Securities (Distressed MBS)? ([Link](https://medium.com/regarding-real-estate/buying-broken-promises-why-smart-money-is-chasing-distressed-mortgage-bonds-e327fd9a96a2?sk=d2488430522bb89df275f96998f74e32))
 
