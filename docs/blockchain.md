@@ -8,6 +8,9 @@ Subcategories
 
 ## 2025
 
+#### I Simulated an Entire Mortgage Market on the Blockchain. 
+How I Created and Managed a $949 Million Real Estate Portfolio in Under 8 Minutes, and What it Means for the Future of Finance ([Link](https://medium.com/stable-inc/i-simulated-an-entire-mortgage-market-on-the-blockchain-0a4f8d95ce1e))
+
 #### Verifying OnChain NFT Metadata with Foundry
 How to Extract NFT Images with Foundry ([Link](https://warobson.medium.com/verifying-onchain-nft-metadata-with-foundry-3a9cbce2a879))
 
