@@ -2,6 +2,9 @@
 
 ## 2025
 
+#### I Simulated an Entire Mortgage Market on the Blockchain. 
+How I Created and Managed a $949 Million Real Estate Portfolio in Under 8 Minutes, and What it Means for the Future of Finance ([Link](https://medium.com/stable-inc/i-simulated-an-entire-mortgage-market-on-the-blockchain-0a4f8d95ce1e))
+
 #### Buying Broken Promises: Why Smart Money Is Chasing Distressed Mortgage Bonds 
 What are Distressed Mortgage-Backed Securities (Distressed MBS)? ([Link](https://medium.com/regarding-real-estate/buying-broken-promises-why-smart-money-is-chasing-distressed-mortgage-bonds-e327fd9a96a2?sk=d2488430522bb89df275f96998f74e32))
 
