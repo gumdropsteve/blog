@@ -1,5 +1,8 @@
 ## Stable
 
+#### I Simulated an Entire Mortgage Market on the Blockchain. 
+How I Created and Managed a $949 Million Real Estate Portfolio in Under 8 Minutes, and What it Means for the Future of Finance ([Link](https://medium.com/stable-inc/i-simulated-an-entire-mortgage-market-on-the-blockchain-0a4f8d95ce1e))
+
 #### Mortgage Capital Markets: A Breakdown
 Outlining Mortgage Capital Markets in the United States ([Link](https://medium.com/stable-inc/mortgage-capital-markets-a-breakdown-fe5b945ba283?sk=9399ac2d64e85d8a1aecd6afd6f46334))
 
