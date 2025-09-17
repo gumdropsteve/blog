@@ -1,5 +1,8 @@
 ## Stable
 
+#### How Stable Manages Fed Policy Risk in USDX
+This is not just a headline - it directly impacts the collateral foundation of our system. ([Link](https://medium.com/stable-inc/how-stable-manages-fed-policy-risk-in-usdx-98e3eef92222))
+
 #### I Simulated an Entire Mortgage Market on the Blockchain. 
 How I Created and Managed a $949 Million Real Estate Portfolio in Under 8 Minutes, and What it Means for the Future of Finance ([Link](https://medium.com/stable-inc/i-simulated-an-entire-mortgage-market-on-the-blockchain-0a4f8d95ce1e))
 
