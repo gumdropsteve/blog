@@ -8,6 +8,9 @@ Subcategories
 
 ## 2025
 
+#### Why Tokenize a Mortgage?
+What Is a Tokenized Mortgage? ([Link](https://medium.com/stable-inc/why-tokenize-a-mortgage-ba143ce45279))
+
 #### How Stable Manages Fed Policy Risk in USDX
 This is not just a headline - it directly impacts the collateral foundation of our system. ([Link](https://medium.com/stable-inc/how-stable-manages-fed-policy-risk-in-usdx-98e3eef92222))
 
