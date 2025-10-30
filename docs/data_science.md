@@ -7,6 +7,11 @@ Subcategories
   - [BlazingSQL](ds/rapids_ai/blazingsql)
   - [cuML](ds/rapids_ai/cuml)
 
+## 2025
+
+#### Talk to Your Bookie Like They Want You to Win 
+Bet on prediction markets with your voice. ([Link](https://medium.com/dropout-analytics/talk-to-your-bookie-like-they-actually-want-you-to-win-3a5591ccd8de))
+
 ## 2023
 
 #### Most Popular DEX?
