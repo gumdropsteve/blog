@@ -8,8 +8,8 @@ The Whitepaper for Stable's CDP stablecoin, USDX. ([Link](https://github.com/Sta
 Stories can be found in chronological order [here at /chronological](docs/chronological).
 
 ## Most Recent
-#### Stable Achieves 1st Ever Home Yield in US
-Tokenized Real Estate Earns Yield for Colorado Homeowner ([Link](https://medium.com/stable-inc/stable-achieves-1st-ever-home-yield-in-us-787aaa2b8a3b))
+#### Talk to Your Bookie Like They Want You to Win 
+Bet on prediction markets with your voice. ([Link](https://medium.com/dropout-analytics/talk-to-your-bookie-like-they-actually-want-you-to-win-3a5591ccd8de))
 
 ## Categories
 
