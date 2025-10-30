@@ -5,6 +5,9 @@ Subcategories
 
 ## 2025
 
+#### Talk to Your Bookie Like They Want You to Win 
+Bet on prediction markets with your voice. ([Link](https://medium.com/dropout-analytics/talk-to-your-bookie-like-they-actually-want-you-to-win-3a5591ccd8de))
+
 #### Verifying OnChain NFT Metadata with Foundry
 How to Extract NFT Images with Foundry ([Link](https://warobson.medium.com/verifying-onchain-nft-metadata-with-foundry-3a9cbce2a879))
 
