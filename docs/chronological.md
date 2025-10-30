@@ -2,6 +2,12 @@
 
 ## 2025
 
+#### Talk to Your Bookie Like They Want You to Win
+Bet on prediction markets with your voice. ([Link](https://medium.com/dropout-analytics/talk-to-your-bookie-like-they-actually-want-you-to-win-3a5591ccd8de))
+
+#### Why Tokenize a Mortgage?
+What Is a Tokenized Mortgage? ([Link](https://medium.com/stable-inc/why-tokenize-a-mortgage-ba143ce45279))
+
 #### Why Tokenize a Mortgage?
 What Is a Tokenized Mortgage? ([Link](https://medium.com/stable-inc/why-tokenize-a-mortgage-ba143ce45279))
 
