@@ -1,5 +1,8 @@
 ## Stable
 
+#### What is USDX? 
+The Mortgage Backed Stablecoin ([Link](https://medium.com/stable-inc/what-is-usdx-1726a7425d49))
+
 #### Why Tokenize a Mortgage?
 What Is a Tokenized Mortgage? ([Link](https://medium.com/stable-inc/why-tokenize-a-mortgage-ba143ce45279))
 
