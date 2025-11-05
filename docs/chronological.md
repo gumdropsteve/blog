@@ -2,6 +2,9 @@
 
 ## 2025
 
+#### What is USDX?
+The Mortgage Backed Stablecoin ([Link](https://medium.com/stable-inc/what-is-usdx-1726a7425d49))
+
 #### Talk to Your Bookie Like They Want You to Win
 Bet on prediction markets with your voice. ([Link](https://medium.com/dropout-analytics/talk-to-your-bookie-like-they-actually-want-you-to-win-3a5591ccd8de))
 
