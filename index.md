@@ -1,8 +1,8 @@
 # blog
 
 ## Featured
-#### USDX Whitepaper
-The Whitepaper for Stable's CDP stablecoin, USDX. ([Link](https://github.com/Stable-Finance/whitepaper))
+#### What is USDX? 
+The Mortgage Backed Stablecoin ([Link](https://medium.com/stable-inc/what-is-usdx-1726a7425d49))
 
 ## Chronological 
 Stories can be found in chronological order [here at /chronological](docs/chronological).
