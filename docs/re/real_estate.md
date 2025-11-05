@@ -2,6 +2,9 @@
 
 ## 2025
 
+#### What is USDX? 
+The Mortgage Backed Stablecoin ([Link](https://medium.com/stable-inc/what-is-usdx-1726a7425d49))
+
 #### What Is a Joint Venture Equity Structure in Real Estate? 
 How Big Deals Get Done ([Link](https://medium.com/regarding-real-estate/what-is-a-joint-venture-equity-structure-in-real-estate-a5128d8297fd))
 
