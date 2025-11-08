@@ -8,6 +8,9 @@ Subcategories
 
 ## 2025
 
+#### Why We Built the Stable Points Program
+And How It Works ([Link](https://medium.com/stable-inc/why-we-built-the-stable-points-program-b0398141c0ff))
+
 #### Talk to Your Bookie Like They Want You to Win 
 Bet on prediction markets with your voice. ([Link](https://medium.com/dropout-analytics/talk-to-your-bookie-like-they-actually-want-you-to-win-3a5591ccd8de))
 

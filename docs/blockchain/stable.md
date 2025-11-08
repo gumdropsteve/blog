@@ -1,5 +1,8 @@
 ## Stable
 
+#### Why We Built the Stable Points Program
+And How It Works ([Link](https://medium.com/stable-inc/why-we-built-the-stable-points-program-b0398141c0ff))
+
 #### What is USDX? 
 The Mortgage Backed Stablecoin ([Link](https://medium.com/stable-inc/what-is-usdx-1726a7425d49))
 
