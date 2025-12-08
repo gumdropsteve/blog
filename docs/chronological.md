@@ -2,6 +2,9 @@
 
 ## 2025
 
+#### USDX Is Live on Monad
+Monad mainnet launched. We were ready. ([Link](https://medium.com/stable-inc/usdx-is-live-on-monad-5045f36f5973))
+
 #### Why We Built the Stable Points Program
 And How It Works ([Link](https://medium.com/stable-inc/why-we-built-the-stable-points-program-b0398141c0ff))
 
