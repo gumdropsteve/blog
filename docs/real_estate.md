@@ -5,6 +5,11 @@ Subcategories
 - [Real Estate](re/real_estate)
 - [Stable](blockchain/stable)
 
+## 2026 
+
+#### The Mortgage Data Pipeline Is Broken. Here’s How Tokenization Fixes It.
+How putting mortgages onchain eliminates the reconciliation nightmares, reporting delays, and data gaps that cost the industry billions. ([Link](https://medium.com/stable-inc/the-mortgage-data-pipeline-is-broken-heres-how-tokenization-fixes-it-8899feb86c2e))
+
 ## 2025
 
 #### What is USDX? 
