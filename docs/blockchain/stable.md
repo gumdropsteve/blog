@@ -2,6 +2,9 @@
 
 ## 2026 
 
+#### Stable Home Accounts
+Your Neighbor Is Paying Off Their Mortgage Early With Stable ([Link](https://medium.com/stable-inc/stable-home-accounts-3a4adbf36012))
+
 #### The Mortgage Data Pipeline Is Broken. Here’s How Tokenization Fixes It.
 How putting mortgages onchain eliminates the reconciliation nightmares, reporting delays, and data gaps that cost the industry billions. ([Link](https://medium.com/stable-inc/the-mortgage-data-pipeline-is-broken-heres-how-tokenization-fixes-it-8899feb86c2e))
 
