@@ -8,6 +8,9 @@ Subcategories
 
 ## 2026 
 
+#### Mortgage Yields Onchain
+Introducing mUSDX — Composable Mortgage Yield for DeFi ([Link](https://medium.com/stable-inc/mortgage-yields-on-solana-c1609e1eee55))
+
 #### Stable Home Accounts
 Your Neighbor Is Paying Off Their Mortgage Early With Stable ([Link](https://medium.com/stable-inc/stable-home-accounts-3a4adbf36012))
 
