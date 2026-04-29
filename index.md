@@ -1,15 +1,16 @@
 # blog
+Not a blog.
 
 ## Featured
 #### What is USDX? 
 The Mortgage Backed Stablecoin ([Link](https://medium.com/stable-inc/what-is-usdx-1726a7425d49))
 
-## Chronological 
-Stories can be found in chronological order [here at /chronological](docs/chronological).
-
 ## Most Recent
-#### Talk to Your Bookie Like They Want You to Win 
-Bet on prediction markets with your voice. ([Link](https://medium.com/dropout-analytics/talk-to-your-bookie-like-they-actually-want-you-to-win-3a5591ccd8de))
+#### Mortgage Yields Onchain
+Introducing mUSDX — Composable Mortgage Yield for DeFi ([Link](https://medium.com/stable-inc/mortgage-yields-on-solana-c1609e1eee55))
+
+## Chronological 
+All stories can be found in chronological order at [/chronological](docs/chronological).
 
 ## Categories
 
