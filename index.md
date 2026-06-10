@@ -6,8 +6,8 @@ Not a blog.
 The Mortgage Backed Stablecoin ([Link](https://medium.com/stable-inc/what-is-usdx-1726a7425d49))
 
 ## Most Recent
-#### Mortgage Yields Onchain
-Introducing mUSDX — Composable Mortgage Yield for DeFi ([Link](https://medium.com/stable-inc/mortgage-yields-on-solana-c1609e1eee55))
+#### Mortgages Are Liquidity 
+Every major stablecoin reached for Treasuries. USDX reached for the asset that actually backs the dollar. The whitepaper is live. ([Medium Link](https://medium.com/stable-inc/mortgages-are-liquidity-027390ed1b94) | [X Link](https://x.com/trystable/status/2064544970988568784))
 
 ## Chronological 
 All stories can be found in chronological order at [/chronological](docs/chronological).
