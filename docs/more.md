@@ -1,6 +1,10 @@
 ## Thanks for checkout out my work! ...
 Here's more about me and ways you can support!
 
+## Top Referral Links/Codes 
+Trade with me on fomo and get 10% off fees!
+[stablewinston](https://fomo.family/r/stablewinston)
+
 ## Sponsor
 You can Sponsor my work on GitHub at [/sponsors/gumdropsteve](https://github.com/sponsors/gumdropsteve)!
 
@@ -9,7 +13,7 @@ You can find me online here.
 - GitHub: [/gumdropsteve](https://github.com/gumdropsteve)
 - LinkedIn: [/in/winstonrobson](https://linkedin.com/in/winstonrobson)
 - Medium: [@warobson](https://medium.com/@warobson)
-- X: [@gumdropsteve](https://twitter.com/gumdropsteve)
+- X: [@stablewinston](https://twitter.com/stablewinston)
 
 ## Things I've Built.
 I have built or helped build some things you may like.
