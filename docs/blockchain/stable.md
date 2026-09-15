@@ -2,6 +2,9 @@
 
 ## 2026 
 
+#### Baum has run our money for six months. Now it can run yours.
+Introducing the Harness where TradFi meets DeFi ([Substack](https://warobson.substack.com/p/baum-has-run-our-money-for-six-months) | [X](https://x.com/stablewinston/status/2099607719661695335))
+
 #### Mortgages Are Liquidity 
 Every major stablecoin reached for Treasuries. USDX reached for the asset that actually backs the dollar. The whitepaper is live. ([Medium Link](https://medium.com/stable-inc/mortgages-are-liquidity-027390ed1b94) | [X Link](https://x.com/trystable/status/2064544970988568784))
 
