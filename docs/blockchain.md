@@ -8,6 +8,9 @@ Subcategories
 
 ## 2026 
 
+#### How Baum Runs Autonomous Onchain Liquidity with Alchemy
+Connecting Stable's AI Agent Harness to Blockchain Networks ([Medium](https://medium.com/stable-inc/how-baum-runs-autonomous-onchain-liquidity-with-alchemy-0c93b6890bdb?sharedUserId=warobson) | [X](https://x.com/trystable/status/2105778427672571913?s=20))
+
 #### Mortgages Are Liquidity 
 Every major stablecoin reached for Treasuries. USDX reached for the asset that actually backs the dollar. The whitepaper is live. ([Medium Link](https://medium.com/stable-inc/mortgages-are-liquidity-027390ed1b94) | [X Link](https://x.com/trystable/status/2064544970988568784))
 
