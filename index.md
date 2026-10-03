@@ -5,7 +5,6 @@ Not a blog.
 #### What is USDX? 
 The Mortgage Backed Stablecoin ([Link](https://medium.com/stable-inc/what-is-usdx-1726a7425d49))
 
-## Most Recent
 #### Mortgages Are Liquidity 
 Every major stablecoin reached for Treasuries. USDX reached for the asset that actually backs the dollar. The whitepaper is live. ([Medium Link](https://medium.com/stable-inc/mortgages-are-liquidity-027390ed1b94) | [X Link](https://x.com/trystable/status/2064544970988568784))
 
