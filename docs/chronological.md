@@ -2,6 +2,9 @@
 
 ## 2026 
 
+#### How Baum Runs Autonomous Onchain Liquidity with Alchemy
+Connecting Stable's AI Agent Harness to Blockchain Networks ([Medium](https://medium.com/stable-inc/how-baum-runs-autonomous-onchain-liquidity-with-alchemy-0c93b6890bdb?sharedUserId=warobson) | [X](https://x.com/trystable/status/2105778427672571913?s=20))
+
 #### Baum has run our money for six months. Now it can run yours.
 Introducing the Harness where TradFi meets DeFi ([Substack](https://warobson.substack.com/p/baum-has-run-our-money-for-six-months) | [X](https://x.com/stablewinston/status/2099607719661695335))
 
